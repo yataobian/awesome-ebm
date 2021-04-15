@@ -24,7 +24,7 @@
 ### 2013 ~ 2016
 
 ### 2006 ~ 2012
-- [ ] [Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al. Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
+- [ ] [2012: Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al. Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
 
 
 ### Early papers (Before 2006)
