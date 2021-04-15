@@ -12,6 +12,10 @@
 - [ ] [2020: Liu, H., and Abbeel, P. Hybrid discriminative-generative training via contrastive learning. arXiv preprint arXiv:2007.09070, 2020.](https://arxiv.org/pdf/2007.09070.pdf)
 - [ ] [2020: Arbel, Michael, Zhou, Liang, and  Gretton,  Arthur. Generalized energy based models.arXiv e-prints,pp. arXiv–2003, 2020.](https://arxiv.org/pdf/2003.05033.pdf)
 - [ ] [2020: Song,  Yang,  Sohl-Dickstein,  Jascha,  Kingma,  Diederik P, Kumar,  Abhishek,  Ermon,  Ste-fano, and Poole, Ben.  Score-based generative modeling through stochastic differential equations.arXiv preprint arXiv:2011.13456, 2020.](https://arxiv.org/pdf/2011.13456.pdf)
+- [ ] [2020: Song, Y., & Ermon, S. (2020). Improved techniques for training score-based generative models. arXiv preprint arXiv:2006.09011.](https://arxiv.org/abs/2006.09011)
+
+
+
 
 ### 2019
 - [ ] [2019: Song, Y., and Ermon, S. Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf)
