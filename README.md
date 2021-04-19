@@ -27,7 +27,7 @@ Score-based generative modeling through stochastic differential equations.arXiv 
 Improved techniques for training score-based generative models." arXiv preprint arXiv:2006.09011 (2020).](https://arxiv.org/abs/2006.09011)
 
 - [ ] [2020: Gao, Ruiqi, et al. \
-"Flow contrastive estimation of energy-based models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf)
+"Flow contrastive estimation of energy-based models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf)
 
 
 
