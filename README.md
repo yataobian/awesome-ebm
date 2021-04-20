@@ -2,6 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A comprehensive list of awesome energy based learning papers and code.
 
+## Papers
 
 ### 2021
 - [ ] [2021: Song, Y., & Kingma, D. P.  \
@@ -63,3 +64,10 @@ Information theory and statistical mechanics.Physical review, 106(4):620,1957a](
 
 - [ ] [1957b: Jaynes, Edwin T.   \
 Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957b.](https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.171)
+
+
+## Materials
+
+
+- [ ] [2020 Youtube video: Stefano Ermon   \
+Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
