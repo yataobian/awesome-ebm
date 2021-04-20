@@ -1,3 +1,7 @@
+- [Papers](#papers)
+- [Materials](#materials)
+
+
 # Awesome Energy Based Learning (Awesome-EBM)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A comprehensive list of awesome energy based learning papers and code.
