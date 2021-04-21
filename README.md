@@ -1,6 +1,6 @@
-# Awesome Energy Based Learning (Awesome-EBM)
+# Awesome Energy Based Model/Learning (Awesome-EBM)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A comprehensive list of awesome energy based learning papers and code.
+> A comprehensive list of awesome energy based learning papers and materials.
 
 ## Table of Contents
 - [Papers](#papers)
@@ -9,7 +9,7 @@
     - [2019](#2019)
     - [2017 ~ 2018](#2017--2018)
     - [2013 ~ 2016](#2013--2016)
-    - [2006 ~ 2012](#2006--2012)
+    - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2006)](#early-papers-before-2006)   
 - [Materials](#materials)
 
@@ -42,15 +42,19 @@ Improved techniques for training score-based generative models." arXiv preprint 
 "Flow contrastive estimation of energy-based models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf)
 
 - [ ] [2020: Khemakhem, Ilyes, et al. \
-"ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA." Advances in Neural Information Processing Systems 33 (2020).](https://arxiv.org/abs/2002.11537) [[code]](https://github.com/ilkhem/icebeem)
+"ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA." Advances in Neural Information Processing Systems 33 (2020).](https://arxiv.org/abs/2002.11537) *[[code]](https://github.com/ilkhem/icebeem)*
 
 
 ### 2019
+
 - [ ] [2019: Song, Y., and Ermon, S.  \
-Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf) [[code]](https://github.com/ermongroup/ncsn)
+Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf) *[[code]](https://github.com/ermongroup/ncsn)*
 
 - [ ] [2019: Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., Norouzi, M., & Swersky, K.  \
-Your classifier is secretly an energy based model and you should treat it like one. arXiv preprint arXiv:1912.03263, 2019.](https://arxiv.org/pdf/1912.03263.pdf)  [[code]](https://github.com/wgrathwohl/JEM)
+Your classifier is secretly an energy based model and you should treat it like one. arXiv preprint arXiv:1912.03263, 2019.](https://arxiv.org/pdf/1912.03263.pdf)  *[[code]](https://github.com/wgrathwohl/JEM)*
+
+- [ ] [2019: Bian, Y., Buhmann, J., & Krause, A. \
+ Optimal continuous dr-submodular maximization and applications to provable mean field inference. In International Conference on Machine Learning (pp. 644-653). PMLR.](http://proceedings.mlr.press/v97/bian19a.html)  *[[code]](https://github.com/bianan/optimal-dr-submodular-max)*
 
 
 ### 2017 ~ 2018
@@ -59,7 +63,7 @@ Your classifier is secretly an energy based model and you should treat it like o
 ### 2013 ~ 2016
 
 
-### 2006 ~ 2012
+### 2007 ~ 2012
 
 - [ ] [2012: Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al.  \
  Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
