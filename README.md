@@ -50,7 +50,7 @@ Improved techniques for training score-based generative models." arXiv preprint 
 Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf)
 
 - [ ] [2019: Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., Norouzi, M., & Swersky, K.  \
-Your classifier is secretly an energy based model and you should treat it like one. arXiv preprint arXiv:1912.03263, 2019.](https://arxiv.org/pdf/1912.03263.pdf)
+Your classifier is secretly an energy based model and you should treat it like one. arXiv preprint arXiv:1912.03263, 2019.](https://arxiv.org/pdf/1912.03263.pdf)[[code]](https://github.com/wgrathwohl/JEM)
 
 
 ### 2017 ~ 2018
