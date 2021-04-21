@@ -44,6 +44,18 @@ Improved techniques for training score-based generative models." arXiv preprint 
 - [ ] [2020: Khemakhem, Ilyes, et al. \
 "ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA." Advances in Neural Information Processing Systems 33 (2020).](https://arxiv.org/abs/2002.11537) *[[code]](https://github.com/ilkhem/icebeem)*
 
+- [ ] [2020: Cotta, L., Teixeira, C. H., Swami, A., & Ribeiro, B. (2020). \
+ Unsupervised Joint $k$-node Graph Representations with Compositional Energy-Based Models. arXiv preprint arXiv:2010.04259.](https://arxiv.org/abs/2010.04259)
+
+
+- [ ] [2020:  Pang, B., Han, T., Nijkamp, E., Zhu, S. C., & Wu, Y. N. (2020).\
+Learning latent space energy-based prior model. arXiv preprint arXiv:2006.08205.](https://arxiv.org/abs/2006.08205)
+
+
+
+
+
+
 
 ### 2019
 
