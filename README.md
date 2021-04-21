@@ -41,13 +41,13 @@ Improved techniques for training score-based generative models." arXiv preprint 
 - [ ] [2020: Gao, Ruiqi, et al. \
 "Flow contrastive estimation of energy-based models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf)
 
-
-
+- [ ] [2020: Khemakhem, Ilyes, et al. \
+"ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA." Advances in Neural Information Processing Systems 33 (2020).](https://arxiv.org/abs/2002.11537) [[code]](https://github.com/ilkhem/icebeem)
 
 
 ### 2019
 - [ ] [2019: Song, Y., and Ermon, S.  \
-Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf)
+Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf) [[code]](https://github.com/ermongroup/ncsn)
 
 - [ ] [2019: Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., Norouzi, M., & Swersky, K.  \
 Your classifier is secretly an energy based model and you should treat it like one. arXiv preprint arXiv:1912.03263, 2019.](https://arxiv.org/pdf/1912.03263.pdf)  [[code]](https://github.com/wgrathwohl/JEM)
