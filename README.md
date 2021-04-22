@@ -3,7 +3,7 @@
 > A comprehensive list of awesome energy based learning papers and materials.
 
 ## Table of Contents
-- [Workshops](#workshops)
+- [Workshops & Symposiums](#workshops&symposiums)
 - [Papers](#papers)
     - [2021](#2021)
     - [2020](#2020)
@@ -30,14 +30,20 @@ How to Train Your Energy-Based Models. arXiv preprint arXiv:2101.03288, 2021. ](
 - [ ] [Liu, M., Yan, K., Oztekin, B., & Ji, S. (2021).  \
 GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint arXiv:2102.00546.](https://arxiv.org/abs/2102.00546)
 
+- [ ] [Wu, H., Esmaeili, B., Wick, M., Tristan, J. B., & van de Meent, J. W. \
+Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
+
+
+
 
 
 ### 2020
+
 - [ ] [2020: Gustafsson, F. K., Danelljan, M., Timofte, R., and Schön, T. B. \
 How to Train Your Energy-Based Model for Regression. arXiv preprint arXiv:2005.01698, 2020.](https://arxiv.org/pdf/2005.01698.pdf)
 
 - [ ] [2020: Niu, C., Song, Y., Song, J., Zhao, S., Grover, A., and Ermon, S. \
-Permutation invariant graph generation via score-Based generative modeling. In International Conference on Artificial Intelligence and Statistics (pp. 4474-4484). PMLR, 2020.](https://arxiv.org/pdf/2003.00638.pdf)
+Permutation invariant graph generation via score-Based generative modeling. In International Conference on Artificial Intelligence and Statistics (pp. 4474-4484). PMLR, 2020.](https://arxiv.org/pdf/2003.00638.pdf) *[[code]](https://github.com/ermongroup/GraphScoreMatching)*
 
 - [ ] [2020: Liu, H., and Abbeel, P. \
 Hybrid discriminative-generative training via contrastive learning. arXiv preprint arXiv:2007.09070, 2020.](https://arxiv.org/pdf/2007.09070.pdf)
