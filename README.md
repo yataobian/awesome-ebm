@@ -71,6 +71,11 @@ Your classifier is secretly an energy based model and you should treat it like o
 
 ### 2017 ~ 2018
 
+- [ ] [2019: Mordatch, I. (2018). \
+ Concept learning with energy-based models. arXiv preprint arXiv:1811.02486.](https://arxiv.org/abs/1811.02486)  *[[blog]](https://openai.com/blog/learning-concepts-with-energy-functions/)*
+
+
+
 
 ### 2013 ~ 2016
 
