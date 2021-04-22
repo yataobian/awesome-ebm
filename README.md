@@ -3,6 +3,7 @@
 > A comprehensive list of awesome energy based learning papers and materials.
 
 ## Table of Contents
+- [Workshops](#workshops)
 - [Papers](#papers)
     - [2021](#2021)
     - [2020](#2020)
@@ -13,11 +14,23 @@
     - [Early papers (Before 2006)](#early-papers-before-2006)   
 - [Materials](#materials)
 
+
+## Workshops & Symposiums
+
+- [ ] [EBM Workshop at ICLR 2021.](https://sites.google.com/view/ebm-workshop-iclr2021/home)
+
+
 ## Papers
 
 ### 2021
+
 - [ ] [2021: Song, Y., & Kingma, D. P.  \
 How to Train Your Energy-Based Models. arXiv preprint arXiv:2101.03288, 2021. ](https://arxiv.org/pdf/2101.03288.pdf)
+
+- [ ] [Liu, M., Yan, K., Oztekin, B., & Ji, S. (2021).  \
+GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint arXiv:2102.00546.](https://arxiv.org/abs/2102.00546)
+
+
 
 ### 2020
 - [ ] [2020: Gustafsson, F. K., Danelljan, M., Timofte, R., and Schön, T. B. \
