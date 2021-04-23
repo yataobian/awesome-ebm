@@ -87,6 +87,9 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [2019: Bian, Y., Buhmann, J., & Krause, A. \
  Optimal continuous dr-submodular maximization and applications to provable mean field inference. In International Conference on Machine Learning (pp. 644-653). PMLR.](http://proceedings.mlr.press/v97/bian19a.html)  *[[code]](https://github.com/bianan/optimal-dr-submodular-max)*
 
+- [ ] [2019: Du, Yilun, and Igor Mordatch. \
+ Implicit generation and modeling with energy based models. (2019).](https://arxiv.org/pdf/1903.08689.pdf) 
+
 
 ### 2017 ~ 2018
 
