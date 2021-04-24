@@ -75,6 +75,11 @@ Learning latent space energy-based prior model. arXiv preprint arXiv:2006.08205.
 - [ ] [Liu, W., Wang, X., Owens, J. D., & Li, Y. (2020).\
  Energy-based Out-of-distribution Detection. arXiv preprint arXiv:2010.03759.](https://arxiv.org/abs/2010.03759)
 
+- [ ] [Nijkamp, E., Hill, M., Han, T., Zhu, S. C., & Wu, Y. N. (2020, April). \
+    On the anatomy of mcmc-based maximum likelihood learning of energy-based models. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 04, pp. 5272-5280).](https://ojs.aaai.org/index.php/AAAI/article/view/5973)
+
+
+
 
 
 ### 2019
@@ -90,6 +95,11 @@ Your classifier is secretly an energy based model and you should treat it like o
 
 - [ ] [2019: Du, Yilun, and Igor Mordatch. \
  Implicit generation and modeling with energy based models. (2019).](https://arxiv.org/pdf/1903.08689.pdf)
+
+- [ ] [Nijkamp, E., Hill, M., Zhu, S. C., & Wu, Y. N. (2019). \
+  Learning non-convergent non-persistent short-run MCMC toward energy-based model. arXiv preprint arXiv:1904.09770.](https://arxiv.org/abs/1904.09770)
+
+
 
 
 
@@ -110,11 +120,20 @@ Your classifier is secretly an energy based model and you should treat it like o
   Energy-based generative adversarial network. arXiv preprint arXiv:1609.03126.](https://arxiv.org/abs/1609.03126)
 
 
+- [ ] [Xie, J., Lu, Y., Zhu, S. C., & Wu, Y. (2016, June). \
+A theory of generative convnet. In International Conference on Machine Learning (pp. 2635-2644). PMLR.](http://proceedings.mlr.press/v48/xiec16.html)
+
 
 ### 2007 ~ 2012
 
 - [ ] [2012: Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al.  \
  Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
+
+
+ - [ ] [Welling, M., & Teh, Y. W. (2011).\
+  Bayesian learning via stochastic gradient Langevin dynamics. In Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681-688).](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
+
+
 
 
 ### Early papers (Before 2006)
