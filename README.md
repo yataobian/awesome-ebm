@@ -33,6 +33,11 @@ GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint ar
 - [ ] [Wu, H., Esmaeili, B., Wick, M., Tristan, J. B., & van de Meent, J. W. \
 Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
 
+- [ ] [Zheng, Z., Xie, J., & Li, P. \
+Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning..](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
+
+
+
 
 
 
