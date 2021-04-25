@@ -112,7 +112,7 @@ Your classifier is secretly an energy based model and you should treat it like o
 
 
 - [ ] [Xie, J., Lu, Y., Gao, R., Zhu, S. C., & Wu, Y. N. (2018). \
- Cooperative training of descriptor and generator networks. IEEE transactions on pattern analysis and machine intelligence, 42(1), 27-45.](https://arxiv.org/abs/1609.09408)  *[[code]](https://github.com/jianwen-xie/CoopNets)*
+ Cooperative training of descriptor and generator networks. IEEE transactions on pattern analysis and machine intelligence, 42(1), 27-45.](https://arxiv.org/abs/1609.09408) *[[code]](https://github.com/jianwen-xie/CoopNets)*
 
 
 
