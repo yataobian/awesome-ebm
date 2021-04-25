@@ -114,8 +114,8 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [Xie, J., Lu, Y., Gao, R., Zhu, S. C., & Wu, Y. N. (2018). \
  Cooperative training of descriptor and generator networks. IEEE transactions on pattern analysis and machine intelligence, 42(1), 27-45.](https://arxiv.org/abs/1609.09408) *[[code]](https://github.com/jianwen-xie/CoopNets)*
 
-
-
+- [ ] [Gao, R., Lu, Y., Zhou, J., Zhu, S. C., & Wu, Y. N. (2018). \
+ Learning generative convnets via multi-grid modeling and sampling. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 9155-9164).](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Learning_Generative_ConvNets_CVPR_2018_paper.pdf) *[[code]](https://github.com/prateekm08/Multigrid-PyTorch)*
 
 
 
