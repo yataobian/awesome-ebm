@@ -53,6 +53,9 @@ Permutation invariant graph generation via score-Based generative modeling. In I
 - [ ] [2020: Liu, H., and Abbeel, P. \
 Hybrid discriminative-generative training via contrastive learning. arXiv preprint arXiv:2007.09070, 2020.](https://arxiv.org/pdf/2007.09070.pdf)
 
+- [ ] [Ho, J., Jain, A., & Abbeel, P. (2020). \
+Denoising diffusion probabilistic models. arXiv preprint arXiv:2006.11239.](https://arxiv.org/abs/2006.11239)
+
 - [ ] [2020: Arbel, Michael, Zhou, Liang, and  Gretton,  Arthur.  \
  Generalized energy based models.arXiv e-prints,pp. arXiv–2003, 2020.](https://arxiv.org/pdf/2003.05033.pdf)
 
@@ -135,11 +138,15 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [Xie, J., Lu, Y., Zhu, S. C., & Wu, Y. (2016, June). \
 A theory of generative convnet. In International Conference on Machine Learning (pp. 2635-2644). PMLR.](http://proceedings.mlr.press/v48/xiec16.html)
 
+- [ ] [Sohl-Dickstein, J., Weiss, E., Maheswaranathan, N., & Ganguli, S. (2015, June). \
+Deep unsupervised learning using nonequilibrium thermodynamics. In International Conference on Machine Learning (pp. 2256-2265). PMLR.](http://proceedings.mlr.press/v37/sohl-dickstein15.html)
+
+
+
 ### 2007 ~ 2012
 
 - [ ] [2012: Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al.  \
  Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
-
 
  - [ ] [Welling, M., & Teh, Y. W. (2011).\
   Bayesian learning via stochastic gradient Langevin dynamics. In Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681-688).](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
