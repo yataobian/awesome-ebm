@@ -1,4 +1,4 @@
-# Awesome Energy Based Model/Learning (Awesome-EBM)
+# Awesome Energy Based Models/Learning (Awesome-EBM)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A comprehensive list of awesome energy based learning papers and materials.
 
@@ -12,7 +12,7 @@
     - [2013 ~ 2016](#2013--2016)
     - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2006)](#early-papers-before-2006)   
-- [Materials](#materials)
+- [Tutorials & Blogs](#tutorials--blogs)
 
 
 ## Workshops & Symposiums
@@ -88,8 +88,6 @@ Learning latent space energy-based prior model. arXiv preprint arXiv:2006.08205.
 
 - [ ] [Cai, R., Yang, G., Averbuch-Elor, H., Hao, Z., Belongie, S., Snavely, N., & Hariharan, B. (2020).\
 Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.](https://arxiv.org/abs/2008.06520)
-
-
 
 
 ### 2019
@@ -182,7 +180,7 @@ Information theory and statistical mechanics.Physical review, 106(4):620,1957a](
 Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957b.](https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.171)
 
 
-## Materials
+## Tutorials & Blogs
 
 
 - [ ] [2020 Youtube video: Stefano Ermon   \
