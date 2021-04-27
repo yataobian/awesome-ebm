@@ -86,6 +86,8 @@ Learning latent space energy-based prior model. arXiv preprint arXiv:2006.08205.
 - [ ] [Nijkamp, E., Hill, M., Han, T., Zhu, S. C., & Wu, Y. N. (2020, April). \
     On the anatomy of mcmc-based maximum likelihood learning of energy-based models. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 04, pp. 5272-5280).](https://ojs.aaai.org/index.php/AAAI/article/view/5973)
 
+- [ ] [Cai, R., Yang, G., Averbuch-Elor, H., Hao, Z., Belongie, S., Snavely, N., & Hariharan, B. (2020).\
+Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.](https://arxiv.org/abs/2008.06520)
 
 
 
