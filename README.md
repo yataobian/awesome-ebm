@@ -162,6 +162,8 @@ A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](h
 - [ ] [Hinton, G. E., Osindero, S., & Teh, Y. W. (2006). \
  A fast learning algorithm for deep belief nets. Neural computation, 18(7), 1527-1554.](https://direct.mit.edu/neco/article/18/7/1527/7065/A-Fast-Learning-Algorithm-for-Deep-Belief-Nets)
 
+- [ ] [LeCun, Y., & Huang, F. J. (2005, January).   \
+Loss Functions for Discriminative Training of Energy-Based Models. In AIStats (Vol. 6, p. 34).](http://yann.lecun.com/exdb/publis/pdf/lecun-huang-05.pdf)
 
 - [ ] [Welling, M., Rosen-Zvi, M., & Hinton, G. E. (2004, December). \
 Exponential Family Harmoniums with an Application to Information Retrieval. In Nips (Vol. 4, pp. 1481-1488).](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.5757&rep=rep1&type=pdf)
