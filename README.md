@@ -187,3 +187,6 @@ LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
 
 - [ ] [2020 Youtube video: Stefano Ermon   \
 Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
+
+- [ ] [UvA Deep Learning Tutorials Fall 2020.   \
+Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
