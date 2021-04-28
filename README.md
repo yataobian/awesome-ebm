@@ -13,7 +13,7 @@
     - [2013 ~ 2016](#2013--2016)
     - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2007)](#early-papers-before-2007)   
-- [Tutorials & Blogs](#tutorials--blogs)
+- [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
 
 
 ## Workshops & Symposiums
@@ -22,13 +22,13 @@
 
 ## Representative Applications
 
-  - [ ] Data generation
-  - [ ] Classification/regression
-  - [ ] Out-of-distribution detection (OOD) or anomaly detection
-  - [ ] Calibration
-  - [ ] Adversarial robustness
-  - [ ] Image inpainting/denoising/super-resolution
-  - [ ] Prior modelling
+- [ ] Data generation
+- [ ] Classification/regression
+- [ ] Out-of-distribution detection (OOD) or anomaly detection
+- [ ] Calibration
+- [ ] Adversarial robustness
+- [ ] Image inpainting/denoising/super-resolution
+- [ ] Prior modelling
 
 ## Papers (Reverse Chronological Order)
 
@@ -190,12 +190,15 @@ Information theory and statistical mechanics.Physical review, 106(4):620,1957a](
 Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957b.](https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.171)
 
 
-## Tutorials & Blogs
+## Tutorials & Talks & Blogs
 
 - [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
 LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
 
-- [ ] [2020 Youtube video: Stefano Ermon   \
+- [ ] [2020 Youtube video: Arthur Gretton. \
+On the critic function of implicit generative models.](https://www.youtube.com/watch?v=et6Kgh6mWmc)
+
+- [ ] [2020 Youtube video: Stefano Ermon. \
 Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
 
 - [ ] [UvA Deep Learning Tutorials Fall 2020.   \
