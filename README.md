@@ -11,7 +11,7 @@
     - [2017 ~ 2018](#2017--2018)
     - [2013 ~ 2016](#2013--2016)
     - [2007 ~ 2012](#2007--2012)
-    - [Early papers (Before 2006)](#early-papers-before-2006)   
+    - [Early papers (Before 2007)](#early-papers-before-2007)   
 - [Tutorials & Blogs](#tutorials--blogs)
 
 
@@ -35,9 +35,6 @@ Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
 
 - [ ] [Zheng, Z., Xie, J., & Li, P. \
 Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning.](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
-
-
-
 
 
 
@@ -125,6 +122,8 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [Gao, R., Lu, Y., Zhou, J., Zhu, S. C., & Wu, Y. N. (2018). \
  Learning generative convnets via multi-grid modeling and sampling. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 9155-9164).](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Learning_Generative_ConvNets_CVPR_2018_paper.pdf) *[[code]](https://github.com/prateekm08/Multigrid-PyTorch)*
 
+- [ ] [Yoon, K., Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., ... & Pitkow, X. (2018). \
+ Inference in Probabilistic Graphical Models by Graph Neural Networks. arXiv preprint arXiv:1803.07710.](https://arxiv.org/abs/1803.07710)
 
 
 
@@ -153,8 +152,7 @@ Deep unsupervised learning using nonequilibrium thermodynamics. In International
 
 
 
-
-### Early papers (Before 2006)
+### Early papers (Before 2007)
 
 
 - [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
