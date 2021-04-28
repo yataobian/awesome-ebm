@@ -4,7 +4,8 @@
 
 ## Table of Contents
 - [Workshops & Symposiums](#workshops--symposiums)
-- [Papers](#papers)
+- [Representative Applications](#representative-applications)
+- [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
     - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
@@ -19,8 +20,17 @@
 
 - [ ] [EBM Workshop at ICLR 2021.](https://sites.google.com/view/ebm-workshop-iclr2021/home)
 
+## Representative Applications
 
-## Papers
+  - [ ] Data generation
+  - [ ] Classification/regression
+  - [ ] Out-of-distribution detection (OOD) or anomaly detection
+  - [ ] Calibration
+  - [ ] Adversarial robustness
+  - [ ] Image inpainting/denoising/super-resolution
+  - [ ] Prior modelling
+
+## Papers (Reverse Chronological Order)
 
 ### 2021
 
