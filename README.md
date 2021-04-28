@@ -182,6 +182,8 @@ Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1
 
 ## Tutorials & Blogs
 
+- [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
+LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
 
 - [ ] [2020 Youtube video: Stefano Ermon   \
 Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
