@@ -86,7 +86,6 @@ Improved techniques for training score-based generative models." arXiv preprint 
 Learning latent space energy-based prior model. arXiv preprint arXiv:2006.08205.](https://arxiv.org/abs/2006.08205)
 
 
-
 - [ ] [Liu, W., Wang, X., Owens, J. D., & Li, Y. (2020).\
  Energy-based Out-of-distribution Detection. arXiv preprint arXiv:2010.03759.](https://arxiv.org/abs/2010.03759)
 
@@ -95,6 +94,10 @@ Learning latent space energy-based prior model. arXiv preprint arXiv:2006.08205.
 
 - [ ] [Cai, R., Yang, G., Averbuch-Elor, H., Hao, Z., Belongie, S., Snavely, N., & Hariharan, B. (2020).\
 Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.](https://arxiv.org/abs/2008.06520)
+
+- [ ] [Wang, Z., Cheng, S., Yueru, L., Zhu, J., & Zhang, B. (2020, June).\
+ A wasserstein minimum velocity approach to learning unnormalized models. In International Conference on Artificial Intelligence and Statistics (pp. 3728-3738). PMLR.](http://proceedings.mlr.press/v108/wang20j)
+
 
 
 ### 2019
@@ -113,8 +116,6 @@ Your classifier is secretly an energy based model and you should treat it like o
 
 - [ ] [Nijkamp, E., Hill, M., Zhu, S. C., & Wu, Y. N. (2019). \
   Learning non-convergent non-persistent short-run MCMC toward energy-based model. arXiv preprint arXiv:1904.09770.](https://arxiv.org/abs/1904.09770)
-
-
 
 
 
@@ -157,9 +158,35 @@ Deep unsupervised learning using nonequilibrium thermodynamics. In International
 - [ ] [2012: Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al.  \
  Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
 
- - [ ] [Welling, M., & Teh, Y. W. (2011).\
+- [ ] [Welling, M., & Teh, Y. W. (2011).\
   Bayesian learning via stochastic gradient Langevin dynamics. In Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681-688).](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
 
+- [ ] [Raphan, M., & Simoncelli, E. P. (2011).\
+ Least squares estimation without priors or supervision. Neural computation, 23(2), 374-420.](https://direct.mit.edu/neco/article/23/2/374/7627/Least-Squares-Estimation-Without-Priors-or)
+
+
+- [ ] [Vincent, P. (2011).\
+ A connection between score matching and denoising autoencoders. Neural computation, 23(7), 1661-1674.](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)
+
+
+- [ ] [Lyu, S. (2011, September).\
+Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction. In NIPS (pp. 64-72).](https://www.researchgate.net/profile/Siwei-Lyu/publication/266487843_Unifying_Non-Maximum_Likelihood_Learning_Objectives_with_Minimum_KL_Contraction/links/5661c8b608ae192bbf8ba332/Unifying-Non-Maximum-Likelihood-Learning-Objectives-with-Minimum-KL-Contraction.pdf)
+
+
+- [ ] [Kingma, D. P., & LeCun, Y. (2010, January).\
+ Regularized estimation of image statistics by Score Matching. In NIPS (Vol. 509, p. 618).](http://dpkingma.com/files/kingma-lecun-nips-10.pdf)
+
+
+- [ ] [Raphan, M., Simoncelli, E. P., Scholkopf, B., Platt, J., & Hoffman, T. (2007).\
+ Learning to be Bayesian without supervision. Advances in neural information processing systems, 19, 1145.](https://proceedings.neurips.cc/paper/2006/file/908c9a564a86426585b29f5335b619bc-Paper.pdf)
+
+
+
+- [ ] [Hyvarinen, A. (2007).\
+ Connections between score matching, contrastive divergence, and pseudolikelihood for continuous-valued variables. IEEE Transactions on neural networks, 18(5), 1529-1531.](https://ieeexplore.ieee.org/abstract/document/4298117)
+
+- [ ] [Hyvarinen, A. (2007).\
+Some extensions of score matching. Computational statistics & data analysis, 51(5), 2499-2512.](https://www.cs.helsinki.fi/u/ahyvarin/papers/CSDA07.pdf)
 
 
 ### Early papers (Before 2007)
@@ -175,12 +202,22 @@ A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](h
 - [ ] [LeCun, Y., & Huang, F. J. (2005, January).   \
 Loss Functions for Discriminative Training of Energy-Based Models. In AIStats (Vol. 6, p. 34).](http://yann.lecun.com/exdb/publis/pdf/lecun-huang-05.pdf)
 
+
+- [ ] [Hyvärinen, A., & Dayan, P. (2005).\
+Estimation of non-normalized statistical models by score matching. Journal of Machine Learning Research, 6(4).](http://yann.lecun.com/exdb/publis/pdf/lecun-huang-05.pdf)
+
+
+
 - [ ] [Welling, M., Rosen-Zvi, M., & Hinton, G. E. (2004, December). \
 Exponential Family Harmoniums with an Application to Information Retrieval. In Nips (Vol. 4, pp. 1481-1488).](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.5757&rep=rep1&type=pdf)
 
 
 - [ ] [Smolensky, P. (1986).  \
 Information processing in dynamical systems: Foundations of harmony theory. Colorado Univ at Boulder Dept of Computer Science.](https://apps.dtic.mil/sti/citations/ADA620727)
+
+
+- [ ] [Stein, C. M. (1981). \
+ Estimation of the mean of a multivariate normal distribution. The annals of Statistics, 1135-1151.](https://www.jstor.org/stable/2240405?seq=1)
 
 
 - [ ] [1957a: Jaynes, Edwin T. \
