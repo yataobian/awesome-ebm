@@ -211,6 +211,13 @@ Estimation of non-normalized statistical models by score matching. Journal of Ma
 - [ ] [Welling, M., Rosen-Zvi, M., & Hinton, G. E. (2004, December). \
 Exponential Family Harmoniums with an Application to Information Retrieval. In Nips (Vol. 4, pp. 1481-1488).](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.5757&rep=rep1&type=pdf)
 
+- [ ] [Teh, Y. W., Welling, M., Osindero, S., & Hinton, G. E. (2003).  \
+Energy-based models for sparse overcomplete representations. Journal of Machine Learning Research, 4(Dec), 1235-1260.](https://www.jmlr.org/papers/volume4/teh03a/teh03a.pdf)
+
+
+- [ ] [Hinton, G. E. (2002). \
+Training products of experts by minimizing contrastive divergence. Neural computation, 14(8), 1771-1800.](https://direct.mit.edu/neco/article/14/8/1771/6687/Training-Products-of-Experts-by-Minimizing)
+
 
 - [ ] [Smolensky, P. (1986).  \
 Information processing in dynamical systems: Foundations of harmony theory. Colorado Univ at Boulder Dept of Computer Science.](https://apps.dtic.mil/sti/citations/ADA620727)
