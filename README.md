@@ -98,6 +98,8 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
 - [ ] [Wang, Z., Cheng, S., Yueru, L., Zhu, J., & Zhang, B. (2020, June).\
  A wasserstein minimum velocity approach to learning unnormalized models. In International Conference on Artificial Intelligence and Statistics (pp. 3728-3738). PMLR.](http://proceedings.mlr.press/v108/wang20j)
 
+- [ ] [Che, T., Zhang, R., Sohl-Dickstein, J., Larochelle, H., Paull, L., Cao, Y., & Bengio, Y. (2020).\
+ Your gan is secretly an energy-based model and you should use discriminator driven latent sampling. arXiv preprint arXiv:2003.06060.](https://arxiv.org/abs/2003.06060)
 
 
 ### 2019
