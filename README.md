@@ -22,9 +22,9 @@
 
 ## Representative Applications
 
-- [ ] Data generation
+- [ ] Data (image/graph/sequence/etc) generation
 - [ ] Classification/regression
-- [ ] Out-of-distribution detection (OOD) or anomaly detection
+- [ ] Out-of-distribution detection (OOD)/anomaly detection/fraud detection
 - [ ] Calibration
 - [ ] Adversarial robustness
 - [ ] Image inpainting/denoising/super-resolution
@@ -73,10 +73,10 @@ Score-based generative modeling through stochastic differential equations.arXiv 
 Improved techniques for training score-based generative models." arXiv preprint arXiv:2006.09011 (2020).](https://arxiv.org/abs/2006.09011)
 
 - [ ] [2020: Gao, Ruiqi, et al. \
-"Flow contrastive estimation of energy-based models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf)
+Flow contrastive estimation of energy-based models. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf)
 
 - [ ] [2020: Khemakhem, Ilyes, et al. \
-"ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA." Advances in Neural Information Processing Systems 33 (2020).](https://arxiv.org/abs/2002.11537) *[[code]](https://github.com/ilkhem/icebeem)*
+ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA. Advances in Neural Information Processing Systems 33 (2020).](https://arxiv.org/abs/2002.11537) *[[code]](https://github.com/ilkhem/icebeem)*
 
 - [ ] [2020: Cotta, L., Teixeira, C. H., Swami, A., & Ribeiro, B. (2020). \
  Unsupervised Joint $k$-node Graph Representations with Compositional Energy-Based Models. arXiv preprint arXiv:2010.04259.](https://arxiv.org/abs/2010.04259)
@@ -137,6 +137,12 @@ Your classifier is secretly an energy based model and you should treat it like o
  Inference in Probabilistic Graphical Models by Graph Neural Networks. arXiv preprint arXiv:1803.07710.](https://arxiv.org/abs/1803.07710)
 
 
+- [ ] [ Ceylan, C., & Gutmann, M. U. (2018, July).\
+ Conditional noise-contrastive estimation of unnormalised models. In International Conference on Machine Learning (pp. 726-734). PMLR.](http://proceedings.mlr.press/v80/ceylan18a.html)
+
+- [ ] [Bose, A. J., Ling, H., & Cao, Y. (2018).\
+Adversarial contrastive estimation. arXiv preprint arXiv:1805.03642.](https://arxiv.org/abs/1805.03642)
+
 
 ### 2013 ~ 2016
 
@@ -158,6 +164,9 @@ Deep unsupervised learning using nonequilibrium thermodynamics. In International
 - [ ] [2012: Parry, Matthew, Dawid, A Philip, Lauritzen, Steffen, et al.  \
  Proper local scoring rules.Annals of Statistics, 40(1):561–592, 2012.](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
 
+- [ ] [Gutmann, M., & Hirayama, J. I. (2012).\
+  Bregman divergence as general framework to estimate unnormalized statistical models. arXiv preprint arXiv:1202.3727.](https://arxiv.org/abs/1202.3727)
+
 - [ ] [Welling, M., & Teh, Y. W. (2011).\
   Bayesian learning via stochastic gradient Langevin dynamics. In Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681-688).](http://www.stats.ox.ac.uk/~steffen/papers/AOS971.pdf)
 
@@ -171,6 +180,10 @@ Deep unsupervised learning using nonequilibrium thermodynamics. In International
 
 - [ ] [Lyu, S. (2011, September).\
 Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction. In NIPS (pp. 64-72).](https://www.researchgate.net/profile/Siwei-Lyu/publication/266487843_Unifying_Non-Maximum_Likelihood_Learning_Objectives_with_Minimum_KL_Contraction/links/5661c8b608ae192bbf8ba332/Unifying-Non-Maximum-Likelihood-Learning-Objectives-with-Minimum-KL-Contraction.pdf)
+
+
+- [ ] [Gutmann, M., & Hyvärinen, A. (2010, March).\
+ Noise-contrastive estimation: A new estimation principle for unnormalized statistical models. In Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (pp. 297-304). JMLR Workshop and Conference Proceedings.](http://proceedings.mlr.press/v9/gutmann10a)
 
 
 - [ ] [Kingma, D. P., & LeCun, Y. (2010, January).\
