@@ -14,6 +14,7 @@
     - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2007)](#early-papers-before-2007)   
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
+- [Open Source Libraries](#open--source--libraries)
 
 
 ## Workshops & Symposiums
@@ -222,10 +223,6 @@ Some extensions of score matching. Computational statistics & data analysis, 51(
 ### Early papers (Before 2007)
 
 
-- [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
-A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
-
-
 - [ ] [Hinton, G. E., Osindero, S., & Teh, Y. W. (2006). \
  A fast learning algorithm for deep belief nets. Neural computation, 18(7), 1527-1554.](https://direct.mit.edu/neco/article/18/7/1527/7065/A-Fast-Learning-Algorithm-for-Deep-Belief-Nets)
 
@@ -266,6 +263,9 @@ Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1
 
 ## Tutorials & Talks & Blogs
 
+- [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
+A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
+
 - [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
 LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
 
@@ -277,3 +277,9 @@ Generative Modeling by Estimating Gradients of the Data Distribution](https://ww
 
 - [ ] [UvA Deep Learning Tutorials Fall 2020.   \
 Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
+
+
+## Open Source Libraries
+
+- [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
+Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
