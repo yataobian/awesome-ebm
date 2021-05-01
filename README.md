@@ -156,8 +156,17 @@ Adversarial contrastive estimation. arXiv preprint arXiv:1805.03642.](https://ar
 - [ ] [Xie, J., Lu, Y., Zhu, S. C., & Wu, Y. (2016, June). \
 A theory of generative convnet. In International Conference on Machine Learning (pp. 2635-2644). PMLR.](http://proceedings.mlr.press/v48/xiec16.html)
 
+- [ ] [Liu, Q., Lee, J., & Jordan, M. (2016, June).  \
+A kernelized Stein discrepancy for goodness-of-fit tests. In International conference on machine learning (pp. 276-284). PMLR.](http://proceedings.mlr.press/v48/liub16.html)
+
+
 - [ ] [Sohl-Dickstein, J., Weiss, E., Maheswaranathan, N., & Ganguli, S. (2015, June). \
 Deep unsupervised learning using nonequilibrium thermodynamics. In International Conference on Machine Learning (pp. 2256-2265). PMLR.](http://proceedings.mlr.press/v37/sohl-dickstein15.html)
+
+- [ ] [Gorham, J., & Mackey, L. (2015).\
+ Measuring sample quality with Stein's method. arXiv preprint arXiv:1506.03039.](https://arxiv.org/abs/1506.03039)
+
+
 
 
 
