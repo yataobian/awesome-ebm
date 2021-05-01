@@ -175,6 +175,9 @@ Deep unsupervised learning using nonequilibrium thermodynamics. In International
 - [ ] [Raphan, M., & Simoncelli, E. P. (2011).\
  Least squares estimation without priors or supervision. Neural computation, 23(2), 374-420.](https://direct.mit.edu/neco/article/23/2/374/7627/Least-Squares-Estimation-Without-Priors-or)
 
+- [ ] [Sohl-Dickstein, J., Battaglino, P., & DeWeese, M. R. (2011, January).\
+Minimum Probability Flow Learning. In ICML.](https://openreview.net/forum?id=Bk4fEjZd-S)
+
 
 - [ ] [Vincent, P. (2011).\
  A connection between score matching and denoising autoencoders. Neural computation, 23(7), 1661-1674.](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)
@@ -190,6 +193,9 @@ Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction.
 
 - [ ] [Kingma, D. P., & LeCun, Y. (2010, January).\
  Regularized estimation of image statistics by Score Matching. In NIPS (Vol. 509, p. 618).](http://dpkingma.com/files/kingma-lecun-nips-10.pdf)
+
+- [ ] [Javier R Movellan Jan 2008.\
+  A minimum velocity approach to learning. unpublished draft]()
 
 
 - [ ] [Raphan, M., Simoncelli, E. P., Scholkopf, B., Platt, J., & Hoffman, T. (2007).\
