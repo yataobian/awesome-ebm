@@ -103,6 +103,13 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
  Your gan is secretly an energy-based model and you should use discriminator driven latent sampling. arXiv preprint arXiv:2003.06060.](https://arxiv.org/abs/2003.06060)
 
 
+- [ ] [Grathwohl, W., Kelly, J., Hashemi, M., Norouzi, M., Swersky, K., & Duvenaud, D. (2020).\
+ No MCMC for me: Amortized sampling for fast and stable training of energy-based models. arXiv preprint arXiv:2010.04230.](https://arxiv.org/abs/2010.04230)
+
+- [ ] [Yu, L., Song, Y., Song, J., & Ermon, S. (2020, November).\
+  Training deep energy-based models with f-divergence minimization. In International Conference on Machine Learning (pp. 10957-10967). PMLR.](http://proceedings.mlr.press/v119/yu20g.html)
+
+
 ### 2019
 
 - [ ] [2019: Song, Y., and Ermon, S.  \
@@ -120,6 +127,9 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [Nijkamp, E., Hill, M., Zhu, S. C., & Wu, Y. N. (2019). \
   Learning non-convergent non-persistent short-run MCMC toward energy-based model. arXiv preprint arXiv:1904.09770.](https://arxiv.org/abs/1904.09770)
 
+
+- [ ] [Dai, B., Liu, Z., Dai, H., He, N., Gretton, A., Song, L., & Schuurmans, D. (2019). \
+ Exponential family estimation via adversarial dynamics embedding. arXiv preprint arXiv:1904.12083.](https://arxiv.org/abs/1904.12083)
 
 
 
@@ -159,6 +169,14 @@ A theory of generative convnet. In International Conference on Machine Learning 
 
 - [ ] [Liu, Q., Lee, J., & Jordan, M. (2016, June).  \
 A kernelized Stein discrepancy for goodness-of-fit tests. In International conference on machine learning (pp. 276-284). PMLR.](http://proceedings.mlr.press/v48/liub16.html)
+
+
+- [ ] [Zhai, S., Cheng, Y., Feris, R., & Zhang, Z. (2016).  \
+ Generative adversarial networks as variational training of energy based models. arXiv preprint arXiv:1611.01799.](https://arxiv.org/abs/1611.01799)
+
+
+- [ ] [Kim, T., & Bengio, Y. (2016). \
+   Deep directed generative models with energy-based probability estimation. arXiv preprint arXiv:1606.03439.](https://arxiv.org/abs/1606.03439)
 
 
 - [ ] [Sohl-Dickstein, J., Weiss, E., Maheswaranathan, N., & Ganguli, S. (2015, June). \
