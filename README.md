@@ -1,12 +1,12 @@
 # Awesome Energy Based Models/Learning (Awesome-EBM)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A comprehensive list of awesome energy based learning papers and materials.
+> A comprehensive list of energy based learning papers and materials.
 
 ## Table of Contents
 - [Workshops & Symposiums](#workshops--symposiums)
 - [Representative Applications](#representative-applications)
 - [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
-    - [2021](#2021)
+    - [2021](#2021)s
     - [2020](#2020)
     - [2019](#2019)
     - [2017 ~ 2018](#2017--2018)
@@ -14,7 +14,7 @@
     - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2007)](#early-papers-before-2007)   
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
-- [Open Source Libraries](#open--source--libraries)
+- [Open Source Libraries](#open-source-libraries)
 
 
 ## Workshops & Symposiums
@@ -33,6 +33,7 @@
 
 ## Papers (Reverse Chronological Order)
 
+
 ### 2021
 
 - [ ] [2021: Song, Y., & Kingma, D. P.  \
@@ -46,8 +47,6 @@ Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
 
 - [ ] [Zheng, Z., Xie, J., & Li, P. \
 Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning.](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
-
-
 
 
 ### 2020
@@ -108,6 +107,9 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
 
 - [ ] [Yu, L., Song, Y., Song, J., & Ermon, S. (2020, November).\
   Training deep energy-based models with f-divergence minimization. In International Conference on Machine Learning (pp. 10957-10967). PMLR.](http://proceedings.mlr.press/v119/yu20g.html)
+
+- [ ] [Li, S., Du, Y., van de Ven, G. M., Torralba, A., & Mordatch, I. (2020).\
+ Energy-Based Models for Continual Learning. arXiv preprint arXiv:2011.12216.](https://arxiv.org/abs/2011.12216)
 
 
 ### 2019
