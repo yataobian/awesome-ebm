@@ -112,6 +112,9 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
  Energy-Based Models for Continual Learning. arXiv preprint arXiv:2011.12216.](https://arxiv.org/abs/2011.12216)
 
 
+- [ ] [Du, Y., Meier, J., Ma, J., Fergus, R., & Rives, A. (2020).\
+   Energy-based models for atomic-resolution protein conformations. arXiv preprint arXiv:2004.13167.](https://arxiv.org/abs/2004.13167)
+
 ### 2019
 
 - [ ] [2019: Song, Y., and Ermon, S.  \
