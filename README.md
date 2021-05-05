@@ -54,6 +54,11 @@ Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural
 - [ ] [2020: Gustafsson, F. K., Danelljan, M., Timofte, R., and Schön, T. B. \
 How to Train Your Energy-Based Model for Regression. arXiv preprint arXiv:2005.01698, 2020.](https://arxiv.org/pdf/2005.01698.pdf)
 
+
+- [ ] [Gustafsson, F. K., Danelljan, M., Bhat, G., & Schön, T. B. (2020, August).\
+ Energy-based models for deep probabilistic regression. In European Conference on Computer Vision (pp. 325-343). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_20)
+
+
 - [ ] [2020: Niu, C., Song, Y., Song, J., Zhao, S., Grover, A., and Ermon, S. \
 Permutation invariant graph generation via score-Based generative modeling. In International Conference on Artificial Intelligence and Statistics (pp. 4474-4484). PMLR, 2020.](https://arxiv.org/pdf/2003.00638.pdf) *[[code]](https://github.com/ermongroup/GraphScoreMatching)*
 
@@ -120,6 +125,9 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
 - [ ] [2019: Song, Y., and Ermon, S.  \
 Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf) *[[code]](https://github.com/ermongroup/ncsn)*
 
+- [ ] [Wenliang, L., Sutherland, D., Strathmann, H., & Gretton, A. (2019, May).\
+Learning deep kernels for exponential family densities. In International Conference on Machine Learning (pp. 6737-6746). PMLR.](http://proceedings.mlr.press/v97/wenliang19a.html)
+
 - [ ] [2019: Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., Norouzi, M., & Swersky, K.  \
 Your classifier is secretly an energy based model and you should treat it like one. arXiv preprint arXiv:1912.03263, 2019.](https://arxiv.org/pdf/1912.03263.pdf)  *[[code]](https://github.com/wgrathwohl/JEM)*
 
@@ -138,7 +146,6 @@ Your classifier is secretly an energy based model and you should treat it like o
 
 
 
-
 ### 2017 ~ 2018
 
 - [ ] [Mordatch, I. (2018). \
@@ -154,6 +161,9 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [Yoon, K., Liao, R., Xiong, Y., Zhang, L., Fetaya, E., Urtasun, R., ... & Pitkow, X. (2018). \
  Inference in Probabilistic Graphical Models by Graph Neural Networks. arXiv preprint arXiv:1803.07710.](https://arxiv.org/abs/1803.07710)
 
+
+- [ ] [Haarnoja, T., Zhou, A., Abbeel, P., & Levine, S. (2018, July). \
+Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor. In International Conference on Machine Learning (pp. 1861-1870). PMLR.](http://proceedings.mlr.press/v80/haarnoja18b)
 
 - [ ] [ Ceylan, C., & Gutmann, M. U. (2018, July).\
  Conditional noise-contrastive estimation of unnormalised models. In International Conference on Machine Learning (pp. 726-734). PMLR.](http://proceedings.mlr.press/v80/ceylan18a.html)
@@ -218,6 +228,10 @@ Minimum Probability Flow Learning. In ICML.](https://openreview.net/forum?id=Bk4
 
 - [ ] [Lyu, S. (2011, September).\
 Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction. In NIPS (pp. 64-72).](https://www.researchgate.net/profile/Siwei-Lyu/publication/266487843_Unifying_Non-Maximum_Likelihood_Learning_Objectives_with_Minimum_KL_Contraction/links/5661c8b608ae192bbf8ba332/Unifying-Non-Maximum-Likelihood-Learning-Objectives-with-Minimum-KL-Contraction.pdf)
+
+- [ ] [Ngiam, J., Chen, Z., Koh, P. W., & Ng, A. Y. (2011, June).\
+ Learning deep energy models. In Proceedings of the 28th International Conference on International Conference on Machine Learning (pp. 1105-1112).](https://openreview.net/forum?id=H1VeJhWdWS)
+
 
 
 - [ ] [Gutmann, M., & Hyvärinen, A. (2010, March).\
