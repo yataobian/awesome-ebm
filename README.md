@@ -6,7 +6,7 @@
 - [Workshops & Symposiums](#workshops--symposiums)
 - [Representative Applications](#representative-applications)
 - [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
-    - [2021](#2021)s
+    - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
     - [2017 ~ 2018](#2017--2018)
@@ -24,7 +24,9 @@
 ## Representative Applications
 
 - [ ] Data (image/graph/sequence/etc) generation
-- [ ] Classification/regression
+- [ ] Discriminative learning: Classification/regression
+- [ ] Density estimation
+- [ ] Reinforcement learning
 - [ ] Out-of-distribution detection (OOD)/anomaly detection/fraud detection
 - [ ] Calibration
 - [ ] Adversarial robustness
