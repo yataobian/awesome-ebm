@@ -308,6 +308,9 @@ A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](h
 - [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
 LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
 
+- [ ] [Takayuki Osogami, Sakyasingha Dasgupta, 2017. \
+IJCAI-17 Tutorial: Energy-based machine learning.](https://researcher.watson.ibm.com/researcher/view_group.php?id=7834)
+
 - [ ] [2020 Youtube video: Arthur Gretton. \
 On the critic function of implicit generative models.](https://www.youtube.com/watch?v=et6Kgh6mWmc)
 
