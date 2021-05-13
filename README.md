@@ -142,9 +142,11 @@ Your classifier is secretly an energy based model and you should treat it like o
 - [ ] [Nijkamp, E., Hill, M., Zhu, S. C., & Wu, Y. N. (2019). \
   Learning non-convergent non-persistent short-run MCMC toward energy-based model. arXiv preprint arXiv:1904.09770.](https://arxiv.org/abs/1904.09770)
 
-
 - [ ] [Dai, B., Liu, Z., Dai, H., He, N., Gretton, A., Song, L., & Schuurmans, D. (2019). \
  Exponential family estimation via adversarial dynamics embedding. arXiv preprint arXiv:1904.12083.](https://arxiv.org/abs/1904.12083)
+
+- [ ] [Bartunov, S., Rae, J. W., Osindero, S., & Lillicrap, T. P. (2019). \
+   Meta-learning deep energy-based memory models. arXiv preprint arXiv:1910.02720.](https://arxiv.org/abs/1910.02720)
 
 
 
