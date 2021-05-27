@@ -122,6 +122,11 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
 - [ ] [Du, Y., Meier, J., Ma, J., Fergus, R., & Rives, A. (2020).\
    Energy-based models for atomic-resolution protein conformations. arXiv preprint arXiv:2004.13167.](https://arxiv.org/abs/2004.13167)
 
+- [ ] [   Deng, Y., Bakhtin, A., Ott, M., Szlam, A., & Ranzato, M. A. (2020).\
+ Residual energy-based models for text generation. arXiv preprint arXiv:2004.11714.](https://arxiv.org/abs/2004.11714)
+
+
+
 ### 2019
 
 - [ ] [2019: Song, Y., and Ermon, S.  \
@@ -174,6 +179,14 @@ Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a
 
 - [ ] [Bose, A. J., Ling, H., & Cao, Y. (2018).\
 Adversarial contrastive estimation. arXiv preprint arXiv:1805.03642.](https://arxiv.org/abs/1805.03642)
+
+
+- [ ] [Scellier, B., & Bengio, Y. (2017).\
+ Equilibrium propagation: Bridging the gap between energy-based models and backpropagation. Frontiers in computational neuroscience, 11, 24.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full)
+
+- [ ] [Haarnoja, T., Tang, H., Abbeel, P., & Levine, S. (2017, July).\
+ Reinforcement learning with deep energy-based policies. In International Conference on Machine Learning (pp. 1352-1361). PMLR.](http://proceedings.mlr.press/v70/haarnoja17a.html)
+
 
 
 ### 2013 ~ 2016
@@ -245,6 +258,11 @@ Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction.
 - [ ] [Kingma, D. P., & LeCun, Y. (2010, January).\
  Regularized estimation of image statistics by Score Matching. In NIPS (Vol. 509, p. 618).](http://dpkingma.com/files/kingma-lecun-nips-10.pdf)
 
+
+- [ ] [Lyu, S. (2009, June). \
+Interpretation and generalization of score matching. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (pp. 359-366).](https://dl.acm.org/doi/abs/10.5555/1795114.1795156)
+
+
 - [ ] [Javier R Movellan Jan 2008.\
   A minimum velocity approach to learning. unpublished draft]()
 
@@ -259,6 +277,8 @@ Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction.
 
 - [ ] [Hyvarinen, A. (2007).\
 Some extensions of score matching. Computational statistics & data analysis, 51(5), 2499-2512.](https://www.cs.helsinki.fi/u/ahyvarin/papers/CSDA07.pdf)
+
+
 
 
 ### Early papers (Before 2007)
