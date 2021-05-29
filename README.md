@@ -41,6 +41,10 @@
 - [ ] [2021: Song, Y., & Kingma, D. P.  \
 How to Train Your Energy-Based Models. arXiv preprint arXiv:2101.03288, 2021. ](https://arxiv.org/pdf/2101.03288.pdf)
 
+- [ ] [Shi, C., Luo, S., Xu, M., & Tang, J. (2021). \
+Learning Gradient Fields for Molecular Conformation Generation. arXiv preprint arXiv:2105.03902.](https://arxiv.org/abs/2105.03902)
+
+
 - [ ] [Liu, M., Yan, K., Oztekin, B., & Ji, S. (2021).  \
 GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint arXiv:2102.00546.](https://arxiv.org/abs/2102.00546)
 
