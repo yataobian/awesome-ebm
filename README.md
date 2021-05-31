@@ -37,6 +37,8 @@
 
 
 ### 2021
+- [ ] [2021: Durkan, Conor, and Yang Song.  \
+On Maximum Likelihood Training of Score-Based Generative Models. ](https://arxiv.org/abs/2101.09258)
 
 - [ ] [2021: Song, Y., & Kingma, D. P.  \
 How to Train Your Energy-Based Models. arXiv preprint arXiv:2101.03288, 2021. ](https://arxiv.org/pdf/2101.03288.pdf)
