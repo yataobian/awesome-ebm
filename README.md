@@ -44,6 +44,8 @@ How to Train Your Energy-Based Models. arXiv preprint arXiv:2101.03288, 2021. ](
 - [ ] [Shi, C., Luo, S., Xu, M., & Tang, J. (2021). \
 Learning Gradient Fields for Molecular Conformation Generation. arXiv preprint arXiv:2105.03902.](https://arxiv.org/abs/2105.03902)
 
+- [ ] [Suhail, M., Mittal, A., Siddiquie, B., Broaddus, C., Eledath, J., Medioni, G., & Sigal, L. (2021). \
+ Energy-Based Learning for Scene Graph Generation. arXiv preprint arXiv:2103.02221.](https://arxiv.org/abs/2103.02221)*[[code]](https://github.com/mods333/energy-based-scene-graph)*
 
 - [ ] [Liu, M., Yan, K., Oztekin, B., & Ji, S. (2021).  \
 GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint arXiv:2102.00546.](https://arxiv.org/abs/2102.00546)
