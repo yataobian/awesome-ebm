@@ -130,9 +130,11 @@ Learning gradient fields for shape generation. arXiv preprint arXiv:2008.06520.]
 - [ ] [Du, Y., Meier, J., Ma, J., Fergus, R., & Rives, A. (2020).\
    Energy-based models for atomic-resolution protein conformations. arXiv preprint arXiv:2004.13167.](https://arxiv.org/abs/2004.13167)
 
-- [ ] [   Deng, Y., Bakhtin, A., Ott, M., Szlam, A., & Ranzato, M. A. (2020).\
+- [ ] [Deng, Y., Bakhtin, A., Ott, M., Szlam, A., & Ranzato, M. A. (2020).\
  Residual energy-based models for text generation. arXiv preprint arXiv:2004.11714.](https://arxiv.org/abs/2004.11714)
 
+- [ ] [Sahin, A., Bian, Y., Buhmann, J., & Krause, A. (2020, November).\
+From Sets to Multisets: Provable Variational Inference for Probabilistic Integer Submodular Models. In International Conference on Machine Learning (pp. 8388-8397). PMLR.](http://proceedings.mlr.press/v119/sahin20a.html)
 
 
 ### 2019
