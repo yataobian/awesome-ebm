@@ -58,6 +58,9 @@ Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
 - [ ] [Zheng, Z., Xie, J., & Li, P. \
 Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning.](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
 
+- [ ] [Wu, Jiaxiang and Shen, Tao and Lan, Haidong and Bian, Yatao and Huang, Junzhou. (2021) \
+SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://www.biorxiv.org/content/10.1101/2021.06.06.447297)
+
 
 ### 2020
 
