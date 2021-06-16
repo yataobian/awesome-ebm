@@ -61,7 +61,8 @@ Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural
 - [ ] [Wu, Jiaxiang and Shen, Tao and Lan, Haidong and Bian, Yatao and Huang, Junzhou. (2021) \
 SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://www.biorxiv.org/content/10.1101/2021.06.06.447297)
 
-- [ ] [Bian, Y., Rong, Y., Xu, T., Wu, J., Krause, A., & Huang, J. (2021). \ Energy-Based Learning for Cooperative Games, with Applications to Feature/Data/Model Valuations. arXiv preprint arXiv:2106.02938.](https://arxiv.org/abs/2106.02938)
+- [ ] [Bian, Y., Rong, Y., Xu, T., Wu, J., Krause, A., & Huang, J. (2021). \
+ Energy-Based Learning for Cooperative Games, with Applications to Feature/Data/Model Valuations. arXiv preprint arXiv:2106.02938.](https://arxiv.org/abs/2106.02938)
 
 
 ### 2020
