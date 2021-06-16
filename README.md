@@ -61,16 +61,16 @@ Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural
 - [ ] [Wu, Jiaxiang and Shen, Tao and Lan, Haidong and Bian, Yatao and Huang, Junzhou. (2021) \
 SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://www.biorxiv.org/content/10.1101/2021.06.06.447297)
 
+- [ ] [Bian, Y., Rong, Y., Xu, T., Wu, J., Krause, A., & Huang, J. (2021). \ Energy-Based Learning for Cooperative Games, with Applications to Feature/Data/Model Valuations. arXiv preprint arXiv:2106.02938.](https://arxiv.org/abs/2106.02938)
+
 
 ### 2020
 
 - [ ] [2020: Gustafsson, F. K., Danelljan, M., Timofte, R., and Schön, T. B. \
 How to Train Your Energy-Based Model for Regression. arXiv preprint arXiv:2005.01698, 2020.](https://arxiv.org/pdf/2005.01698.pdf)
 
-
 - [ ] [Gustafsson, F. K., Danelljan, M., Bhat, G., & Schön, T. B. (2020, August).\
  Energy-based models for deep probabilistic regression. In European Conference on Computer Vision (pp. 325-343). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_20)
-
 
 - [ ] [2020: Niu, C., Song, Y., Song, J., Zhao, S., Grover, A., and Ermon, S. \
 Permutation invariant graph generation via score-Based generative modeling. In International Conference on Artificial Intelligence and Statistics (pp. 4474-4484). PMLR, 2020.](https://arxiv.org/pdf/2003.00638.pdf) *[[code]](https://github.com/ermongroup/GraphScoreMatching)*
