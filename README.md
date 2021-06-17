@@ -52,10 +52,10 @@ Learning Gradient Fields for Molecular Conformation Generation. arXiv preprint a
 - [ ] [Liu, M., Yan, K., Oztekin, B., & Ji, S. (2021).  \
 GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint arXiv:2102.00546.](https://arxiv.org/abs/2102.00546)
 
-- [ ] [Wu, H., Esmaeili, B., Wick, M., Tristan, J. B., & van de Meent, J. W. \
+- [ ] [Wu, H., Esmaeili, B., Wick, M., Tristan, J. B., & van de Meent, J. W. (2021). \
 Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
 
-- [ ] [Zheng, Z., Xie, J., & Li, P. \
+- [ ] [Zheng, Z., Xie, J., & Li, P. (2021). \
 Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning.](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
 
 - [ ] [Wu, Jiaxiang and Shen, Tao and Lan, Haidong and Bian, Yatao and Huang, Junzhou. (2021) \
@@ -66,6 +66,12 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 
 ### 2020
+
+- [ ] [Meng, C., Yu, L., Song, Y., Song, J., & Ermon, S. (2020). \
+ Autoregressive Score Matching. arXiv preprint arXiv:2010.12810.](https://arxiv.org/abs/2010.12810)
+
+- [ ] [Dai, H., Singh, R., Dai, B., Sutton, C., & Schuurmans, D. (2020). \
+ Learning Discrete Energy-based Models via Auxiliary-variable Local Exploration. arXiv preprint arXiv:2011.05363.](https://arxiv.org/abs/2011.05363)
 
 - [ ] [2020: Gustafsson, F. K., Danelljan, M., Timofte, R., and Schön, T. B. \
 How to Train Your Energy-Based Model for Regression. arXiv preprint arXiv:2005.01698, 2020.](https://arxiv.org/pdf/2005.01698.pdf)
