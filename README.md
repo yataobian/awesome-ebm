@@ -31,12 +31,19 @@
 - [ ] Calibration
 - [ ] Adversarial robustness
 - [ ] Image inpainting/denoising/super-resolution
-- [ ] Prior modelling
+- [ ] Prior modeling
 
 ## Papers (Reverse Chronological Order)
 
 
 ### 2021
+
+- [ ] [Yoon, J., Hwang, S. J., & Lee, J. (2021). \
+ Adversarial purification with Score-based generative models. arXiv preprint arXiv:2106.06041.](https://arxiv.org/abs/2106.06041)
+
+- [ ] [Domingo-Enrich, C., Bietti, A., Vanden-Eijnden, E., & Bruna, J. (2021).\
+ On Energy-Based Models with Overparametrized Shallow Neural Networks. arXiv preprint arXiv:2104.07531.](https://arxiv.org/abs/2104.07531)
+
 - [ ] [2021: Durkan, Conor, and Yang Song.  \
 On Maximum Likelihood Training of Score-Based Generative Models. ](https://arxiv.org/abs/2101.09258)
 
@@ -69,6 +76,11 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 - [ ] [Meng, C., Yu, L., Song, Y., Song, J., & Ermon, S. (2020). \
  Autoregressive Score Matching. arXiv preprint arXiv:2010.12810.](https://arxiv.org/abs/2010.12810)
+
+
+- [ ] [ Bao, F., Xu, K., Li, C., Hong, L., Zhu, J., & Zhang, B. (2020). \
+Variational (Gradient) Estimate of the Score Function in Energy-based Latent Variable Models. arXiv preprint arXiv:2010.08258.](https://arxiv.org/abs/2010.08258)
+
 
 - [ ] [Dai, H., Singh, R., Dai, B., Sutton, C., & Schuurmans, D. (2020). \
  Learning Discrete Energy-based Models via Auxiliary-variable Local Exploration. arXiv preprint arXiv:2011.05363.](https://arxiv.org/abs/2011.05363)
@@ -297,7 +309,6 @@ Interpretation and generalization of score matching. In Proceedings of the Twent
 
 - [ ] [Hyvarinen, A. (2007).\
 Some extensions of score matching. Computational statistics & data analysis, 51(5), 2499-2512.](https://www.cs.helsinki.fi/u/ahyvarin/papers/CSDA07.pdf)
-
 
 
 
