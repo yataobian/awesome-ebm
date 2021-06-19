@@ -28,7 +28,7 @@
 - [ ] Density estimation
 - [ ] Reinforcement learning
 - [ ] Out-of-distribution detection (OOD)/anomaly detection/fraud detection
-- [ ] Calibration
+- [ ] Model calibration
 - [ ] Adversarial robustness
 - [ ] Image inpainting/denoising/super-resolution
 - [ ] Prior modeling
@@ -37,6 +37,10 @@
 
 
 ### 2021
+
+- [ ] [Jaini, P., Holdijk, L., & Welling, M. (2021). \
+ Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. arXiv preprint arXiv:2106.07832.](https://arxiv.org/pdf/2106.07832.pdf)
+
 
 - [ ] [Yoon, J., Hwang, S. J., & Lee, J. (2021). \
  Adversarial purification with Score-based generative models. arXiv preprint arXiv:2106.06041.](https://arxiv.org/abs/2106.06041)
