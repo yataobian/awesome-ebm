@@ -38,6 +38,7 @@
 
 ### 2021
 
+
 - [ ] [Jaini, P., Holdijk, L., & Welling, M. (2021). \
  Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. arXiv preprint arXiv:2106.07832.](https://arxiv.org/pdf/2106.07832.pdf)
 
@@ -80,6 +81,10 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 - [ ] [Meng, C., Yu, L., Song, Y., Song, J., & Ermon, S. (2020). \
  Autoregressive Score Matching. arXiv preprint arXiv:2010.12810.](https://arxiv.org/abs/2010.12810)
+
+
+- [ ] [ Xiao, Z., Kreis, K., Kautz, J., & Vahdat, A. (2020, September). \
+ Vaebm: A symbiosis between variational autoencoders and energy-based models. In International Conference on Learning Representations.](https://openreview.net/forum?id=5m3SEczOV8L)
 
 
 - [ ] [ Bao, F., Xu, K., Li, C., Hong, L., Zhu, J., & Zhang, B. (2020). \
