@@ -26,13 +26,14 @@
 - [ ] Data (image/graph/sequence/etc) generation
 - [ ] Discriminative learning: Classification/regression
 - [ ] Density estimation
-- [ ] Reinforcement learning
+- [ ] Maximum entropy reinforcement learning
 - [ ] Out-of-distribution detection (OOD)/anomaly detection/fraud detection
 - [ ] Model calibration
 - [ ] Adversarial robustness
 - [ ] Image inpainting/denoising/super-resolution
 - [ ] Prior modeling
 - [ ] Model-based planning for robotics
+- [ ] Language/Speech modeling
 
 ## Papers (Reverse Chronological Order)
 
@@ -83,6 +84,8 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 - [ ] [Meng, C., Yu, L., Song, Y., Song, J., & Ermon, S. (2020). \
  Autoregressive Score Matching. arXiv preprint arXiv:2010.12810.](https://arxiv.org/abs/2010.12810)
 
+- [ ] [Clark, K., Luong, M. T., Le, Q. V., & Manning, C. D. (2020). \
+ Pre-Training Transformers as Energy-Based Cloze Models. arXiv preprint arXiv:2012.08561.](https://arxiv.org/abs/2012.08561)
 
 - [ ] [Boney, R., Kannala, J., & Ilin, A. (2020, May). \
  Regularizing model-based planning with energy-based models. In Conference on Robot Learning (pp. 182-191). PMLR.](http://proceedings.mlr.press/v100/boney20a.html)
