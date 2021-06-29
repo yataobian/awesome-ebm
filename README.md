@@ -32,7 +32,7 @@
 - [ ] Adversarial robustness
 - [ ] Image inpainting/denoising/super-resolution
 - [ ] Prior modeling
-- [ ] Model-based planning for robotics 
+- [ ] Model-based planning for robotics
 
 ## Papers (Reverse Chronological Order)
 
@@ -391,3 +391,6 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 
 - [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
 Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
+
+- [ ] [Maes, F. (2009). \
+ Nieme: Large-scale energy-based models. The Journal of Machine Learning Research, 10, 743-746.](https://www.jmlr.org/papers/volume10/maes09a/maes09a.pdf)*[[code (however is missing in the webpage)]](http://nieme.lip6.fr/)*
