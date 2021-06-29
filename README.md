@@ -37,7 +37,6 @@
 
 ## Papers (Reverse Chronological Order)
 
-
 ### 2021
 
 
@@ -176,6 +175,9 @@ From Sets to Multisets: Provable Variational Inference for Probabilistic Integer
 
 
 ### 2019
+
+- [ ] [Saremi, S., & Hyvärinen, A. (2019).\
+ Neural empirical bayes. Journal of Machine Learning Research, 20, 1-23.](https://www.jmlr.org/papers/volume20/19-216/19-216.pdf)
 
 - [ ] [2019: Song, Y., and Ermon, S.  \
 Generative Modeling by Estimating Gradients of the Data Distribution. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.](https://arxiv.org/pdf/1907.05600.pdf) *[[code]](https://github.com/ermongroup/ncsn)*
