@@ -89,7 +89,12 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 - [ ] [Boney, R., Kannala, J., & Ilin, A. (2020, May). \
  Regularizing model-based planning with energy-based models. In Conference on Robot Learning (pp. 182-191). PMLR.](http://proceedings.mlr.press/v100/boney20a.html)
 
-- [ ] [ Xiao, Z., Kreis, K., Kautz, J., & Vahdat, A. (2020, September). \
+
+- [ ] [Liu, M., He, T., Xu, M., & Zhang, W. (2020). \
+  Energy-based imitation learning. arXiv preprint arXiv:2004.09395.](https://arxiv.org/abs/2004.09395)
+
+
+- [ ] [Xiao, Z., Kreis, K., Kautz, J., & Vahdat, A. (2020, September). \
  Vaebm: A symbiosis between variational autoencoders and energy-based models. In International Conference on Learning Representations.](https://openreview.net/forum?id=5m3SEczOV8L)
 
 
