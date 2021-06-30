@@ -361,6 +361,10 @@ Energy-based models for sparse overcomplete representations. Journal of Machine 
 Training products of experts by minimizing contrastive divergence. Neural computation, 14(8), 1771-1800.](https://direct.mit.edu/neco/article/14/8/1771/6687/Training-Products-of-Experts-by-Minimizing)
 
 
+- [ ] [Dayan, P., Hinton, G. E., Neal, R. M., & Zemel, R. S. (1995). \
+ The helmholtz machine. Neural computation, 7(5), 889-904.](https://direct.mit.edu/neco/article-abstract/7/5/889/5898)
+
+
 - [ ] [Smolensky, P. (1986).  \
 Information processing in dynamical systems: Foundations of harmony theory. Colorado Univ at Boulder Dept of Computer Science.](https://apps.dtic.mil/sti/citations/ADA620727)
 
