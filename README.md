@@ -40,6 +40,10 @@
 ### 2021
 
 
+- [ ] [Chen, P. H., Wei, W., Hsieh, C. J., & Dai, B. (2021, July). \
+ Overcoming Catastrophic Forgetting by Bayesian Generative Regularization. In International Conference on Machine Learning (pp. 1760-1770). PMLR.](http://proceedings.mlr.press/v139/chen21v.html)
+
+
 - [ ] [Jaini, P., Holdijk, L., & Welling, M. (2021). \
  Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. arXiv preprint arXiv:2106.07832.](https://arxiv.org/pdf/2106.07832.pdf)
 
