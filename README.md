@@ -84,6 +84,10 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 ### 2020
 
+
+- [ ] [Du, Y., Li, S., Tenenbaum, J., & Mordatch, I. (2020). \
+Improved contrastive divergence training of energy based models. arXiv preprint arXiv:2012.01316.](https://arxiv.org/abs/2012.01316)
+
 - [ ] [Meng, C., Yu, L., Song, Y., Song, J., & Ermon, S. (2020). \
  Autoregressive Score Matching. arXiv preprint arXiv:2010.12810.](https://arxiv.org/abs/2010.12810)
 
