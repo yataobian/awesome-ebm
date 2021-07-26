@@ -84,6 +84,9 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 ### 2020
 
+- [ ] [Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., & Zemel, R. (2020, November). \
+ Learning the stein discrepancy for training and evaluating energy-based models without sampling. In International Conference on Machine Learning (pp. 3732-3747). PMLR.](http://proceedings.mlr.press/v119/grathwohl20a.html)
+
 - [ ] [Du, Y., Li, S., & Mordatch, I. (2020). \
  Compositional visual generation with energy based models. Advances in Neural Information Processing Systems, 33, 6637-6647.](https://proceedings.neurips.cc/paper_files/paper/2020/hash/49856ed476ad01fcff881d57e161d73f-Abstract.html)
 
