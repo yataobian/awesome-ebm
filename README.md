@@ -84,6 +84,8 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 ### 2020
 
+- [ ] [Du, Y., Li, S., & Mordatch, I. (2020). \
+ Compositional visual generation with energy based models. Advances in Neural Information Processing Systems, 33, 6637-6647.](https://proceedings.neurips.cc/paper_files/paper/2020/hash/49856ed476ad01fcff881d57e161d73f-Abstract.html)
 
 - [ ] [Du, Y., Li, S., Tenenbaum, J., & Mordatch, I. (2020). \
 Improved contrastive divergence training of energy based models. arXiv preprint arXiv:2012.01316.](https://arxiv.org/abs/2012.01316)
