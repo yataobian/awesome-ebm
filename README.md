@@ -39,6 +39,9 @@
 
 ### 2021
 
+- [ ] [Xie, J., Zheng, Z., Fang, X., Zhu, S. C., & Wu, Y. N. (2021). \
+ Cooperative training of fast thinking initializer and slow thinking solver for conditional learning. IEEE Transactions on Pattern Analysis and Machine Intelligence.](https://ieeexplore.ieee.org/abstract/document/9387560/)
+
 
 - [ ] [Chen, P. H., Wei, W., Hsieh, C. J., & Dai, B. (2021, July). \
  Overcoming Catastrophic Forgetting by Bayesian Generative Regularization. In International Conference on Machine Learning (pp. 1760-1770). PMLR.](http://proceedings.mlr.press/v139/chen21v.html)
