@@ -39,6 +39,11 @@
 
 ### 2021
 
+
+- [ ] [Sodhi, P., Dexheimer, E., Mukadam, M., Anderson, S., & Kaess, M. (2021). \
+ LEO: Learning Energy-based Models in Graph Optimization. arXiv preprint arXiv:2108.02274.](https://arxiv.org/abs/2108.02274)
+
+
 - [ ] [Xie, J., Zheng, Z., Fang, X., Zhu, S. C., & Wu, Y. N. (2021). \
  Cooperative training of fast thinking initializer and slow thinking solver for conditional learning. IEEE Transactions on Pattern Analysis and Machine Intelligence.](https://ieeexplore.ieee.org/abstract/document/9387560/)
 
