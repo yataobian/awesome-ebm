@@ -72,6 +72,15 @@ How to Train Your Energy-Based Models. arXiv preprint arXiv:2101.03288, 2021. ](
 - [ ] [Shi, C., Luo, S., Xu, M., & Tang, J. (2021). \
 Learning Gradient Fields for Molecular Conformation Generation. arXiv preprint arXiv:2105.03902.](https://arxiv.org/abs/2105.03902)
 
+- [ ] [Yang, X., & Ji, S. (2021). \
+JEM++: Improved Techniques for Training JEM. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 6494-6503).](https://arxiv.org/abs/2109.09032)
+
+- [ ] [Zhu, Y., Ma, J., Sun, J., Chen, Z., Jiang, R., Chen, Y., & Li, Z. (2021). \
+ Towards understanding the generative capability of adversarially robust classifiers. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 7728-7737).](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Towards_Understanding_the_Generative_Capability_of_Adversarially_Robust_Classifiers_ICCV_2021_paper.pdf)
+
+- [ ] [Yang, X., Ye, H., Ye, Y., Li, X., & Ji, S. (2021). \
+Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More. arXiv preprint arXiv:2101.00122.](https://arxiv.org/abs/2101.00122)
+
 - [ ] [Suhail, M., Mittal, A., Siddiquie, B., Broaddus, C., Eledath, J., Medioni, G., & Sigal, L. (2021). \
  Energy-Based Learning for Scene Graph Generation. arXiv preprint arXiv:2103.02221.](https://arxiv.org/abs/2103.02221)*[[code]](https://github.com/mods333/energy-based-scene-graph)*
 
