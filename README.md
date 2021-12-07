@@ -6,6 +6,7 @@
 - [Workshops & Symposiums](#workshops--symposiums)
 - [Representative Applications](#representative-applications)
 - [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
+    - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
@@ -36,6 +37,14 @@
 - [ ] Language/Speech modeling
 
 ## Papers (Reverse Chronological Order)
+
+
+
+### 2022
+
+- [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2021). \
+   Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
+
 
 ### 2021
 
