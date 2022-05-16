@@ -45,8 +45,22 @@
 - [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2021). \
    Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
 
+- [ ] [Sun, H., Dai, H., Xia, W., & Ramamurthy, A. (2021, September). \
+ Path Auxiliary Proposal for MCMC in Discrete Space. In International Conference on Learning Representations.](https://openreview.net/forum?id=JSR-YDImK95)
+
+- [ ] [Eikema, B., Kruszewski, G., Elsahar, H., & Dymetman, M. (2021). \
+ Sampling from Discrete Energy-Based Models with Quality/Efficiency Trade-offs. arXiv preprint arXiv:2112.05702.](https://arxiv.org/abs/2112.05702)
+
+- [ ] [Liu, M., Liu, H., & Ji, S. (2021). \
+Gradient-Guided Importance Sampling for Learning Discrete Energy-Based Models.](https://openreview.net/forum?id=IEKL-OihqX0)
+
+- [ ] [Zhang, D., Malkin, N., Liu, Z., Volokhova, A., Courville, A., & Bengio, Y. (2022). \
+Generative Flow Networks for Discrete Probabilistic Modeling. arXiv preprint arXiv:2202.01361.](https://arxiv.org/abs/2202.01361)
 
 ### 2021
+
+- [ ] [Lazaro-Gredilla, M., Dedieu, A., & George, D. (2021). \
+Perturb-and-max-product: Sampling and learning in discrete energy-based models. Advances in Neural Information Processing Systems, 34.](https://arxiv.org/abs/2111.02458)
 
 - [ ] [Yu, L., Song, J., Song, Y., & Ermon, S. (2021). \
   Pseudo-Spherical Contrastive Divergence. arXiv preprint arXiv:2111.00780.](https://arxiv.org/abs/2111.00780)
@@ -65,6 +79,8 @@
 - [ ] [Jaini, P., Holdijk, L., & Welling, M. (2021). \
  Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. arXiv preprint arXiv:2106.07832.](https://arxiv.org/pdf/2106.07832.pdf)
 
+- [ ] [Grathwohl, W., Swersky, K., Hashemi, M., Duvenaud, D., & Maddison, C. (2021, July). \
+Oops i took a gradient: Scalable sampling for discrete distributions. In International Conference on Machine Learning (pp. 3831-3841). PMLR.](https://arxiv.org/abs/2102.04509)
 
 - [ ] [Yoon, J., Hwang, S. J., & Lee, J. (2021). \
  Adversarial purification with Score-based generative models. arXiv preprint arXiv:2106.06041.](https://arxiv.org/abs/2106.06041)
