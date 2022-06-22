@@ -42,9 +42,6 @@
 
 ### 2022
 
-- [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2021). \
-   Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
-
 - [ ] [Sun, H., Dai, H., Xia, W., & Ramamurthy, A. (2021, September). \
  Path Auxiliary Proposal for MCMC in Discrete Space. In International Conference on Learning Representations.](https://openreview.net/forum?id=JSR-YDImK95)
 
@@ -56,6 +53,15 @@ Gradient-Guided Importance Sampling for Learning Discrete Energy-Based Models.](
 
 - [ ] [Zhang, D., Malkin, N., Liu, Z., Volokhova, A., Courville, A., & Bengio, Y. (2022). \
 Generative Flow Networks for Discrete Probabilistic Modeling. arXiv preprint arXiv:2202.01361.](https://arxiv.org/abs/2202.01361)
+
+- [ ] [Zhang, R., Liu, X., & Liu, Q. (2022). \
+A Langevin-like Sampler for Discrete Distributions. arXiv preprint arXiv:2206.09914.](https://arxiv.org/pdf/2206.09914.pdf)
+
+- [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2021). \
+   Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
+
+- [ ] [Sansone, E. (2021). \
+LSB: Local Self-Balancing MCMC in Discrete Spaces. arXiv preprint arXiv:2109.03867.](https://arxiv.org/abs/2109.03867)
 
 ### 2021
 
