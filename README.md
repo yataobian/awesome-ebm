@@ -42,6 +42,19 @@
 
 ### 2022
 
+
+- [ ] [  Blondel, M., Llinares-López, F., Dadashi, R., Hussenot, L., & Geist, M. (2022). \
+ Learning Energy Networks with Generalized Fenchel-Young Losses. In NeurIPS 2022.](https://arxiv.org/pdf/2205.09589.pdf)
+
+
+- [ ] [ Suri, K., Shi, X. Q., Plataniotis, K., & Lawryshyn, Y. (2020). \
+ Energy-based surprise minimization for multi-agent value factorization. In NeurIPS 2022.](https://arxiv.org/abs/2009.09842)
+
+
+- [ ] [ Kim, B., & Ye, J. C. (2022). \
+ Energy-Based Contrastive Learning of Visual Representations. In NeurIPS 2022.](https://arxiv.org/abs/2202.04933)
+
+
 - [ ] [Sun, H., Dai, H., Xia, W., & Ramamurthy, A. (2021, September). \
  Path Auxiliary Proposal for MCMC in Discrete Space. In International Conference on Learning Representations.](https://openreview.net/forum?id=JSR-YDImK95)
 
