@@ -43,6 +43,30 @@
 ### 2022
 
 
+
+- [ ] [ Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu. 2022). \
+EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations. In NeurIPS 2022.](https://arxiv.org/abs/2207.06635)
+
+
+
+- [ ] [ Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi. 2022). \
+COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics. In NeurIPS 2022.](https://arxiv.org/abs/2202.11705)
+
+
+
+- [ ] [ Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, Chao Zhang 2022). \
+End-to-end Stochastic Programming with Energy-based Model. In NeurIPS 2022.](https://neurips.cc/virtual/2022/poster/52816)
+
+
+- [ ] [ Xiao, Z., & Han, T. (2022). (2022). \
+ Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model. In NeurIPS 2022.](https://arxiv.org/abs/2209.08739)
+
+
+
+- [ ] [  Minsoo Kang, Hyewon Yoo, Eunhee Kang, Sehwan Ki, Hyong Euk Lee, Bohyung Han. (2022). \
+ Information-Theoretic Generative Model Compression with Variational Energy-based Model. In NeurIPS 2022.](https://neurips.cc/virtual/2022/poster/54815)
+
+
 - [ ] [  Blondel, M., Llinares-López, F., Dadashi, R., Hussenot, L., & Geist, M. (2022). \
  Learning Energy Networks with Generalized Fenchel-Young Losses. In NeurIPS 2022.](https://arxiv.org/pdf/2205.09589.pdf)
 
