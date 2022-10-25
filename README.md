@@ -100,6 +100,12 @@ A Langevin-like Sampler for Discrete Distributions. arXiv preprint arXiv:2206.09
 - [ ] [Sansone, E. (2021). \
 LSB: Local Self-Balancing MCMC in Discrete Spaces. arXiv preprint arXiv:2109.03867.](https://arxiv.org/abs/2109.03867)
 
+
+- [ ] [Ou, Z., Xu, T., Su, Q., Li, Y., Zhao, P., & Bian, Y.  2022). \
+Learning Neural Set Functions Under the Optimal Subset Oracle. In NeurIPS 2022 (Oral).](https://subsetselection.github.io/EquiVSet/)
+
+
+
 ### 2021
 
 - [ ] [Lazaro-Gredilla, M., Dedieu, A., & George, D. (2021). \
