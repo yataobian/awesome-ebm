@@ -42,6 +42,9 @@
 
 ### 2022
 
+- [ ] [ Chenlin Meng, Kristy Choi, Jiaming Song, Stefano Ermon. 2022). \
+Concrete Score Matching: Generalized Score Matching for Discrete Data. In NeurIPS 2022.](https://arxiv.org/abs/2211.00802)
+
 
 
 - [ ] [ Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu. 2022). \
