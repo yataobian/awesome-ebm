@@ -42,26 +42,26 @@
 
 ### 2022
 
-- [ ] [ Chenlin Meng, Kristy Choi, Jiaming Song, Stefano Ermon. 2022). \
+- [ ] [ Chenlin Meng, Kristy Choi, Jiaming Song, Stefano Ermon. (2022). \
 Concrete Score Matching: Generalized Score Matching for Discrete Data. In NeurIPS 2022.](https://arxiv.org/abs/2211.00802)
 
 
 
-- [ ] [ Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu. 2022). \
+- [ ] [ Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu. (2022). \
 EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations. In NeurIPS 2022.](https://arxiv.org/abs/2207.06635)
 
 
 
-- [ ] [ Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi. 2022). \
+- [ ] [ Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi. (2022). \
 COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics. In NeurIPS 2022.](https://arxiv.org/abs/2202.11705)
 
 
 
-- [ ] [ Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, Chao Zhang 2022). \
+- [ ] [ Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, Chao Zhang (2022). \
 End-to-end Stochastic Programming with Energy-based Model. In NeurIPS 2022.](https://neurips.cc/virtual/2022/poster/52816)
 
 
-- [ ] [ Xiao, Z., & Han, T. (2022). (2022). \
+- [ ] [ Xiao, Z., & Han, T. (2022). \
  Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model. In NeurIPS 2022.](https://arxiv.org/abs/2209.08739)
 
 
