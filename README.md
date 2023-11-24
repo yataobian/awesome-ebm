@@ -38,7 +38,25 @@
 
 ## Papers (Reverse Chronological Order)
 
+### 2023
 
+- [] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
+Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
+
+- [ ] [ Timur Garipov, Sebastiaan De Peuter, Ge Yang, Vikas Garg, Samuel Kaski, Tommi S. Jaakkola. (2023). \
+Compositional Sculpting of Iterative Generative Processes. In NeurIPS 2023.](https://openreview.net/forum?id=w79RtqIyoM)
+
+- [] [ P Yu, Y Zhu, S Xie, X Ma, R Gao, SC Zhu, YN Wu. (2023). \
+Learning Energy-Based Prior Model with Diffusion-Amortized MCMC. In NeurIPS 2023.](https://arxiv.org/pdf/2310.03218.pdf)
+
+- [ ] [Tobias Schröder, Zijing Ou, Yingzhen Li, Andrew B. Duncan. (2023). \
+Training Discrete Energy-Based Models with Energy Discrepancy. In ICML SODS Workshop.](https://arxiv.org/abs/2307.07595)
+
+- [ ] [ W Jiang, J Qin, L Wu, C Chen, T Yang, L Zhang. (2023). \
+Learning Unnormalized Statistical Models via Compositional Optimization. In ICML 2023.](https://proceedings.mlr.press/v202/jiang23g/jiang23g.pdf)
+
+- [ ] [Aaron Lou, Chenlin Meng, Stefano Ermon. (2023). \
+Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution. arXiv preprint arXiv:2310.16834.](https://arxiv.org/abs/2310.16834)
 
 ### 2022
 
