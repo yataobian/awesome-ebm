@@ -40,13 +40,13 @@
 
 ### 2023
 
-- [] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
+- [ ] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
 Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
 
 - [ ] [ Timur Garipov, Sebastiaan De Peuter, Ge Yang, Vikas Garg, Samuel Kaski, Tommi S. Jaakkola. (2023). \
 Compositional Sculpting of Iterative Generative Processes. In NeurIPS 2023.](https://openreview.net/forum?id=w79RtqIyoM)
 
-- [] [ P Yu, Y Zhu, S Xie, X Ma, R Gao, SC Zhu, YN Wu. (2023). \
+- [ ] [ P Yu, Y Zhu, S Xie, X Ma, R Gao, SC Zhu, YN Wu. (2023). \
 Learning Energy-Based Prior Model with Diffusion-Amortized MCMC. In NeurIPS 2023.](https://arxiv.org/pdf/2310.03218.pdf)
 
 - [ ] [Tobias Schröder, Zijing Ou, Yingzhen Li, Andrew B. Duncan. (2023). \
