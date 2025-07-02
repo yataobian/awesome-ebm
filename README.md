@@ -532,7 +532,8 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 
 ## Open Source Libraries
 
-- [ ] [2025 Minimalist, educational implementation of Energy-Based Models (EBMs) in PyTorch (ongoing)](https://github.com/yataobian/mini-ebm)
+- [ ] [2025. mini-ebm: Minimalist, educational implementation of Energy-Based Models (EBMs) in PyTorch (ongoing)](https://github.com/yataobian/mini-ebm)
+- [ ] [2025. TorchEBM: A high-performance PyTorch library that makes Energy-Based Models accessible and efficient for researchers and practitioners alike.](https://github.com/soran-ghaderi/torchebm)
 
 - [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
 Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
