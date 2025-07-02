@@ -3,9 +3,15 @@
 > A comprehensive list of energy based learning papers and materials.
 
 ## Table of Contents
-- [Workshops & Symposiums](#workshops--symposiums)
+
 - [Representative Applications](#representative-applications)
+- [Open Source Libraries](#open-source-libraries)
+- [Workshops & Symposiums](#workshops--symposiums)
+- [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
 - [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
+    - [2025](#2025)
+    - [2024](#2024)
+    - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
@@ -14,17 +20,11 @@
     - [2013 ~ 2016](#2013--2016)
     - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2007)](#early-papers-before-2007)   
-- [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
-- [Open Source Libraries](#open-source-libraries)
 
-
-## Workshops & Symposiums
-
-- [ ] [EBM Workshop at ICLR 2021.](https://sites.google.com/view/ebm-workshop-iclr2021/home)
 
 ## Representative Applications
 
-- [ ] Data (image/graph/sequence/etc) generation
+- [ ] Data (image/graph/sequence/molecule/material) generation
 - [ ] Discriminative learning: Classification/regression
 - [ ] Density estimation
 - [ ] Maximum entropy reinforcement learning
@@ -36,9 +36,57 @@
 - [ ] Model-based planning for robotics
 - [ ] Language/Speech modeling
 
+## Open Source Libraries
+
+- [ ] [2025. mini-ebm: Minimalist, educational implementation of Energy-Based Models (EBMs) in PyTorch (ongoing)](https://github.com/yataobian/mini-ebm)
+- [ ] [2025. TorchEBM: A high-performance PyTorch library that makes Energy-Based Models accessible and efficient for researchers and practitioners alike.](https://github.com/soran-ghaderi/torchebm)
+
+- [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
+Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
+
+- [ ] [Maes, F. (2009). \
+ Nieme: Large-scale energy-based models. The Journal of Machine Learning Research, 10, 743-746.](https://www.jmlr.org/papers/volume10/maes09a/maes09a.pdf)*[[code (however is missing in the webpage)]](http://nieme.lip6.fr/)*
+
+
+## Tutorials & Talks & Blogs
+
+- [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
+A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
+
+- [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
+LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
+
+- [ ] [Takayuki Osogami, Sakyasingha Dasgupta, 2017. \
+IJCAI-17 Tutorial: Energy-based machine learning.](https://researcher.watson.ibm.com/researcher/view_group.php?id=7834)
+
+- [ ] [2020 Youtube video: Arthur Gretton. \
+On the critic function of implicit generative models.](https://www.youtube.com/watch?v=et6Kgh6mWmc)
+
+- [ ] [2020 Youtube video: Stefano Ermon. \
+Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
+
+- [ ] [UvA Deep Learning Tutorials Fall 2020.   \
+Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
+
+
+## Workshops & Symposiums
+
+- [ ] [EBM Workshop at ICLR 2021.](https://sites.google.com/view/ebm-workshop-iclr2021/home)
+
+
 ## Papers (Reverse Chronological Order)
 
+### 2025
+
+@todo
+
+### 2024
+
+@todo
+
 ### 2023
+
+@to be updated
 
 - [ ] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
 Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
@@ -508,35 +556,3 @@ Information theory and statistical mechanics.Physical review, 106(4):620,1957a](
 - [ ] [1957b: Jaynes, Edwin T.   \
 Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957b.](https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.171)
 
-
-## Tutorials & Talks & Blogs
-
-- [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
-A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
-
-- [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
-LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
-
-- [ ] [Takayuki Osogami, Sakyasingha Dasgupta, 2017. \
-IJCAI-17 Tutorial: Energy-based machine learning.](https://researcher.watson.ibm.com/researcher/view_group.php?id=7834)
-
-- [ ] [2020 Youtube video: Arthur Gretton. \
-On the critic function of implicit generative models.](https://www.youtube.com/watch?v=et6Kgh6mWmc)
-
-- [ ] [2020 Youtube video: Stefano Ermon. \
-Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
-
-- [ ] [UvA Deep Learning Tutorials Fall 2020.   \
-Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
-
-
-## Open Source Libraries
-
-- [ ] [2025. mini-ebm: Minimalist, educational implementation of Energy-Based Models (EBMs) in PyTorch (ongoing)](https://github.com/yataobian/mini-ebm)
-- [ ] [2025. TorchEBM: A high-performance PyTorch library that makes Energy-Based Models accessible and efficient for researchers and practitioners alike.](https://github.com/soran-ghaderi/torchebm)
-
-- [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
-Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
-
-- [ ] [Maes, F. (2009). \
- Nieme: Large-scale energy-based models. The Journal of Machine Learning Research, 10, 743-746.](https://www.jmlr.org/papers/volume10/maes09a/maes09a.pdf)*[[code (however is missing in the webpage)]](http://nieme.lip6.fr/)*
