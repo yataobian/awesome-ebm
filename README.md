@@ -26,6 +26,7 @@
 
 - [ ] Data (image/graph/sequence/molecule/material) generation
 - [ ] Discriminative learning: Classification/regression
+- [ ] Energy based guidance of generative models (LLMs, diffusion based models)
 - [ ] Density estimation
 - [ ] Maximum entropy reinforcement learning
 - [ ] Out-of-distribution detection (OOD)/anomaly detection/fraud detection
