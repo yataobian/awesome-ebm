@@ -169,6 +169,9 @@ A Langevin-like Sampler for Discrete Distributions. arXiv preprint arXiv:2206.09
 
 - [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2021). \
    Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
+   
+- [ ] [Xie, J., Zhu, Y., Li, J., Li, P. (2022).\
+   A Tale of Two Flows: Cooperative Learning of Langevin Flow and Normalizing Flow Toward Energy-Based Model. ICLR 2022](https://openreview.net/pdf?id=31d5RLCUuXC)
 
 - [ ] [Sansone, E. (2021). \
 LSB: Local Self-Balancing MCMC in Discrete Spaces. arXiv preprint arXiv:2109.03867.](https://arxiv.org/abs/2109.03867)
