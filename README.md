@@ -9,6 +9,7 @@
 - [Workshops & Symposiums](#workshops--symposiums)
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
 - [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
+    - [2026](#2026)
     - [2025](#2025)
     - [2024](#2024)
     - [2023](#2023)
@@ -76,6 +77,10 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 
 
 ## Papers (Reverse Chronological Order)
+
+### 2026
+
+@todo
 
 ### 2025
 
