@@ -80,19 +80,40 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 
 ### 2026
 
-@todo
+ - [ ] [Maymon, Ariel, Yanir Buznah, and Uri Shaham. (2026). \
+ Unsupervised Ensemble Learning Through Deep Energy-based Models. In AISTATS 2026.](https://arxiv.org/pdf/2601.20556)
 
 ### 2025
 
-@todo
+- [ ] [Ou, Zijing, Ruixiang Zhang, and Yingzhen Li. (2025). \ 
+Discrete Neural Flow Samplers with Locally Equivariant Transformer. In NeurIPS 2025.](https://arxiv.org/abs/2505.17741)
+
+- [ ] [Liang, Luxu, Yuhang Jia, and Feng Zhou. (2025). \ 
+Enhancing Gradient-based Discrete Sampling via Parallel Tempering. arXiv preprint arXiv:2502.19240.](https://arxiv.org/abs/2502.19240)
 
 ### 2024
 
-@todo
+- [ ] [Pynadath, Patrick, et al. (2024). \ 
+Gradient-based discrete sampling with automatic cyclical scheduling. In NeurIPS 2024.](https://arxiv.org/pdf/2402.17699)
+
+- [ ] [Du, Li, et al. (2024). \ 
+Principled Gradient-based Markov Chain Monte Carlo for Text Generation. In ICML 2024.](https://arxiv.org/pdf/2312.17710)
 
 ### 2023
 
 @to be updated
+
+- [ ] [Goshvadi, Katayoon, et al. (2023). \ 
+Discs: a benchmark for discrete sampling. In NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9ad87c1ebbae8a3555adb31dbcacf44-Supplemental-Datasets_and_Benchmarks.pdf)
+
+- [ ] [Xiang, Yue, et al. (2023). \ 
+Efficient informed proposals for discrete distributions via newton’s series approximation. In AISTATS 2023.](https://proceedings.mlr.press/v206/xiang23a/xiang23a.pdf)
+
+- [ ] [Sun, Haoran, et al. (2023). \ 
+Any-scale balanced samplers for discrete space. In ICLR 2023.](https://openreview.net/pdf?id=lEkl0jdSb7B)
+
+- [ ] [Sun, Haoran, et al. (2023). \ 
+Discrete langevin samplers via wasserstein gradient flow. In AISTATS 2023.](https://arxiv.org/pdf/2206.14897)
 
 - [ ] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
 Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
@@ -117,14 +138,17 @@ Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distri
 
 ### 2022
 
+- [ ] [Rhodes, Benjamin, and Michael Gutmann. (2022). \
+Enhanced gradient-based MCMC in discrete spaces. In TMLR 2022.](https://arxiv.org/pdf/2208.00040)
+
+- [ ] [Sun, Haoran, Hanjun Dai, and Dale Schuurmans. (2022). \
+Optimal scaling for locally balanced proposals in discrete spaces. In NeurIPS 2022.](https://arxiv.org/pdf/2209.08183)
+
 - [ ] [ Chenlin Meng, Kristy Choi, Jiaming Song, Stefano Ermon. (2022). \
 Concrete Score Matching: Generalized Score Matching for Discrete Data. In NeurIPS 2022.](https://arxiv.org/abs/2211.00802)
 
-
-
 - [ ] [ Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu. (2022). \
 EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations. In NeurIPS 2022.](https://arxiv.org/abs/2207.06635)
-
 
 
 - [ ] [ Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi. (2022). \
