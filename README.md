@@ -85,38 +85,38 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 
 ### 2025
 
-- [ ] [Ou, Zijing, Ruixiang Zhang, and Yingzhen Li. (2025). \ 
-Discrete Neural Flow Samplers with Locally Equivariant Transformer. In NeurIPS 2025.](https://arxiv.org/abs/2505.17741)
+- [ ] [Ou, Zijing, Ruixiang Zhang, and Yingzhen Li. (2025). \
+ Discrete Neural Flow Samplers with Locally Equivariant Transformer. In NeurIPS 2025.](https://arxiv.org/abs/2505.17741)
 
-- [ ] [Liang, Luxu, Yuhang Jia, and Feng Zhou. (2025). \ 
-Enhancing Gradient-based Discrete Sampling via Parallel Tempering. arXiv preprint arXiv:2502.19240.](https://arxiv.org/abs/2502.19240)
+- [ ] [Liang, Luxu, Yuhang Jia, and Feng Zhou. (2025). \
+ Enhancing Gradient-based Discrete Sampling via Parallel Tempering. arXiv preprint arXiv:2502.19240.](https://arxiv.org/abs/2502.19240)
 
 ### 2024
 
-- [ ] [Pynadath, Patrick, et al. (2024). \ 
-Gradient-based discrete sampling with automatic cyclical scheduling. In NeurIPS 2024.](https://arxiv.org/pdf/2402.17699)
+- [ ] [Pynadath, Patrick, et al. (2024). \
+ Gradient-based discrete sampling with automatic cyclical scheduling. In NeurIPS 2024.](https://arxiv.org/pdf/2402.17699)
 
-- [ ] [Du, Li, et al. (2024). \ 
-Principled Gradient-based Markov Chain Monte Carlo for Text Generation. In ICML 2024.](https://arxiv.org/pdf/2312.17710)
+- [ ] [Du, Li, et al. (2024). \
+ Principled Gradient-based Markov Chain Monte Carlo for Text Generation. In ICML 2024.](https://arxiv.org/pdf/2312.17710)
 
 ### 2023
 
 @to be updated
 
-- [ ] [Goshvadi, Katayoon, et al. (2023). \ 
-Discs: a benchmark for discrete sampling. In NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9ad87c1ebbae8a3555adb31dbcacf44-Supplemental-Datasets_and_Benchmarks.pdf)
+- [ ] [Goshvadi, Katayoon, et al. (2023). \
+ Discs: a benchmark for discrete sampling. In NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9ad87c1ebbae8a3555adb31dbcacf44-Supplemental-Datasets_and_Benchmarks.pdf)
 
-- [ ] [Xiang, Yue, et al. (2023). \ 
-Efficient informed proposals for discrete distributions via newton’s series approximation. In AISTATS 2023.](https://proceedings.mlr.press/v206/xiang23a/xiang23a.pdf)
+- [ ] [Xiang, Yue, et al. (2023). \
+ Efficient informed proposals for discrete distributions via newton’s series approximation. In AISTATS 2023.](https://proceedings.mlr.press/v206/xiang23a/xiang23a.pdf)
 
-- [ ] [Sun, Haoran, et al. (2023). \ 
-Any-scale balanced samplers for discrete space. In ICLR 2023.](https://openreview.net/pdf?id=lEkl0jdSb7B)
+- [ ] [Sun, Haoran, et al. (2023). \
+ Any-scale balanced samplers for discrete space. In ICLR 2023.](https://openreview.net/pdf?id=lEkl0jdSb7B)
 
-- [ ] [Sun, Haoran, et al. (2023). \ 
-Discrete langevin samplers via wasserstein gradient flow. In AISTATS 2023.](https://arxiv.org/pdf/2206.14897)
+- [ ] [Sun, Haoran, et al. (2023). \
+ Discrete langevin samplers via wasserstein gradient flow. In AISTATS 2023.](https://arxiv.org/pdf/2206.14897)
 
 - [ ] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
-Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
+ Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
 
 - [ ] [Mingtian Zhang, Alex Hawkins-Hooker, Brooks Paige, David Barber. (2023). \
 Moment Matching Denoising Gibbs Sampling. In NeurIPS 2023.](https://arxiv.org/abs/2305.11650)
