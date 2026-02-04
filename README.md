@@ -85,6 +85,9 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 
 ### 2025
 
+- [ ] [Balcerak, Michal, et al. (2025). \
+ Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling. In NeurIPS 2025.](https://arxiv.org/pdf/2504.10612)
+
 - [ ] [Ou, Zijing, Ruixiang Zhang, and Yingzhen Li. (2025). \
  Discrete Neural Flow Samplers with Locally Equivariant Transformer. In NeurIPS 2025.](https://arxiv.org/abs/2505.17741)
 
@@ -92,6 +95,9 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
  Enhancing Gradient-based Discrete Sampling via Parallel Tempering. arXiv preprint arXiv:2502.19240.](https://arxiv.org/abs/2502.19240)
 
 ### 2024
+
+- [ ] [Yoon, Sangwoong, et al. (2024). \
+ Maximum entropy inverse reinforcement learning of diffusion models with energy-based models. In NeurIPS 2024.](https://arxiv.org/pdf/2402.17699)
 
 - [ ] [Pynadath, Patrick, et al. (2024). \
  Gradient-based discrete sampling with automatic cyclical scheduling. In NeurIPS 2024.](https://arxiv.org/pdf/2402.17699)
@@ -102,6 +108,12 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 ### 2023
 
 @to be updated
+
+- [ ] [Park, Geon Yeong, et al. (2023). \
+ Energy-based cross attention for bayesian context update in text-to-image diffusion models. In NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0878b7efa656b3bbd407c9248d13751-Paper-Conference.pdf)
+
+- [ ] [Wu, Qitian, et al. (2023). \
+ Energy-based Out-of-Distribution Detection for Graph Neural Networks. In ICLR 2023.](https://arxiv.org/pdf/2302.02914)
 
 - [ ] [Goshvadi, Katayoon, et al. (2023). \
  Discs: a benchmark for discrete sampling. In NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9ad87c1ebbae8a3555adb31dbcacf44-Supplemental-Datasets_and_Benchmarks.pdf)
