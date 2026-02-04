@@ -91,6 +91,24 @@ Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readth
 - [ ] [Liang, Luxu, Yuhang Jia, and Feng Zhou. (2025). \
  Enhancing Gradient-based Discrete Sampling via Parallel Tempering. arXiv preprint arXiv:2502.19240.](https://arxiv.org/abs/2502.19240)
 
+- [ ] [Louis Béthune, David Vigouroux, Yilun Du, Rufin VanRullen, Thomas Serre, Victor Boutin. (2025). \
+ Follow the Energy, Find the Path: Riemannian Metrics from Energy-Based Models. In Neurips 2025.](https://arxiv.org/abs/2505.18230)
+
+- [ ] [Michal Balcerak, Tamaz Amiranashvili, Antonio Terpin, Suprosanna Shit, Lea Bogensperger, Sebastian Kaltenbach, Petros Koumoutsakos, Bjoern Menze. (2025). \
+ Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling. In Neurips 2025.](https://arxiv.org/pdf/2504.10612)
+
+- [ ] [Daniel Tschernutter, David Diego Castro, Maciej Kasiński. (2025). \
+ A Difference-of-Convex Functions Approach to Energy-Based Iterative Reasoning. In Neurips 2025.](https://neurips.cc/virtual/2025/loc/san-diego/poster/118080)
+
+- [ ] [Mincheol Park, Heeji Won, Won Woo Ro, Suhyun Kim. (2025). \
+ Rethinking Entropy in Test-Time Adaptation: The Missing Piece from Energy Duality. In Neurips 2025.](https://openreview.net/forum?id=BKYFAutCDZ)
+
+- [ ] [Benjamin Hoover, Krishna Balasubramanian, Dmitry Krotov, Parikshit Ram. (2025). \
+ Dense Associative Memory with Epanechnikov energy. In Neurips 2025.](https://arxiv.org/abs/2506.10801)
+
+- [ ] [Yang Zitao, Amin Ullah, Shuai Li, Li Fuxin, Jun Li. (2025). \
+ Convex Potential Mirror Langevin Algorithm for Efficient Sampling of Energy-Based Models. In Neurips 2025.](https://openreview.net/forum?id=KWFnxtO78b)
+
 ### 2024
 
 - [ ] [Pynadath, Patrick, et al. (2024). \
