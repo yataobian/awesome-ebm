@@ -48,6 +48,7 @@ Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy
 
 - [ ] [Maes, F. (2009). \
  Nieme: Large-scale energy-based models. The Journal of Machine Learning Research, 10, 743-746.](https://www.jmlr.org/papers/volume10/maes09a/maes09a.pdf)*[[code (however is missing in the webpage)]](http://nieme.lip6.fr/)*
+- [ ] [2025. QQA4CO: PyTorch toolkit for combinatorial optimisation via Parallel Quasi-Quantum Annealing (PQQA, ICLR 2025), bundling SA / PI-GNN / CRA-PI-GNN baselines under one energy-landscape annealing API.](https://github.com/Yuma-Ichikawa/QQA4CO)
 
 
 ## Tutorials & Talks & Blogs
