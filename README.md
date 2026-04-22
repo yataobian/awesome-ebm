@@ -3,9 +3,16 @@
 > A comprehensive list of energy based learning papers and materials.
 
 ## Table of Contents
-- [Workshops & Symposiums](#workshops--symposiums)
+
 - [Representative Applications](#representative-applications)
+- [Open Source Libraries](#open-source-libraries)
+- [Workshops & Symposiums](#workshops--symposiums)
+- [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
 - [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
+    - [2026](#2026)
+    - [2025](#2025)
+    - [2024](#2024)
+    - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
@@ -14,18 +21,13 @@
     - [2013 ~ 2016](#2013--2016)
     - [2007 ~ 2012](#2007--2012)
     - [Early papers (Before 2007)](#early-papers-before-2007)   
-- [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
-- [Open Source Libraries](#open-source-libraries)
 
-
-## Workshops & Symposiums
-
-- [ ] [EBM Workshop at ICLR 2021.](https://sites.google.com/view/ebm-workshop-iclr2021/home)
 
 ## Representative Applications
 
-- [ ] Data (image/graph/sequence/etc) generation
+- [ ] Data (image/graph/sequence/molecule/material) generation
 - [ ] Discriminative learning: Classification/regression
+- [ ] Energy based guidance of generative models (LLMs, diffusion based models)
 - [ ] Density estimation
 - [ ] Maximum entropy reinforcement learning
 - [ ] Out-of-distribution detection (OOD)/anomaly detection/fraud detection
@@ -36,9 +38,122 @@
 - [ ] Model-based planning for robotics
 - [ ] Language/Speech modeling
 
+## Open Source Libraries
+
+- [ ] [2025. mini-ebm: Minimalist, educational implementation of Energy-Based Models (EBMs) in PyTorch (ongoing)](https://github.com/yataobian/mini-ebm)
+- [ ] [2025. TorchEBM: A high-performance PyTorch library that makes Energy-Based Models accessible and efficient for researchers and practitioners alike.](https://github.com/soran-ghaderi/torchebm)
+
+- [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
+Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
+
+- [ ] [Maes, F. (2009). \
+ Nieme: Large-scale energy-based models. The Journal of Machine Learning Research, 10, 743-746.](https://www.jmlr.org/papers/volume10/maes09a/maes09a.pdf)*[[code (however is missing in the webpage)]](http://nieme.lip6.fr/)*
+- [ ] [2025. QQA4CO: PyTorch toolkit for combinatorial optimisation via Parallel Quasi-Quantum Annealing (PQQA, ICLR 2025), bundling SA / PI-GNN / CRA-PI-GNN baselines under one energy-landscape annealing API.](https://github.com/Yuma-Ichikawa/QQA4CO)
+
+
+## Tutorials & Talks & Blogs
+
+- [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
+A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](http://web.stanford.edu/class/cs379c/archive/2012/suggested_reading_list/documents/LeCunetal06.pdf)
+
+- [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
+LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
+
+- [ ] [Takayuki Osogami, Sakyasingha Dasgupta, 2017. \
+IJCAI-17 Tutorial: Energy-based machine learning.](https://youtu.be/biAuoYxz7n8?si=MhbAOidyu9ho2djr)
+
+- [ ] [2020 Youtube video: Arthur Gretton. \
+On the critic function of implicit generative models.](https://www.youtube.com/watch?v=et6Kgh6mWmc)
+
+- [ ] [2020 Youtube video: Stefano Ermon. \
+Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
+
+- [ ] [UvA Deep Learning Tutorials Fall 2020.   \
+Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
+
+
+## Workshops & Symposiums
+
+- [ ] [EBM Workshop at ICLR 2021.](https://sites.google.com/view/ebm-workshop-iclr2021/home)
+
+
 ## Papers (Reverse Chronological Order)
 
+### 2026
 
+ - [ ] [Maymon, Ariel, Yanir Buznah, and Uri Shaham. (2026). \
+ Unsupervised Ensemble Learning Through Deep Energy-based Models. In AISTATS 2026.](https://arxiv.org/pdf/2601.20556)
+
+### 2025
+
+- [ ] [Ou, Zijing, Ruixiang Zhang, and Yingzhen Li. (2025). \
+ Discrete Neural Flow Samplers with Locally Equivariant Transformer. In NeurIPS 2025.](https://arxiv.org/abs/2505.17741)
+
+- [ ] [Liang, Luxu, Yuhang Jia, and Feng Zhou. (2025). \
+ Enhancing Gradient-based Discrete Sampling via Parallel Tempering. arXiv preprint arXiv:2502.19240.](https://arxiv.org/abs/2502.19240)
+
+- [ ] [Louis Béthune, David Vigouroux, Yilun Du, Rufin VanRullen, Thomas Serre, Victor Boutin. (2025). \
+ Follow the Energy, Find the Path: Riemannian Metrics from Energy-Based Models. In Neurips 2025.](https://arxiv.org/abs/2505.18230)
+
+- [ ] [Michal Balcerak, Tamaz Amiranashvili, Antonio Terpin, Suprosanna Shit, Lea Bogensperger, Sebastian Kaltenbach, Petros Koumoutsakos, Bjoern Menze. (2025). \
+ Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling. In Neurips 2025.](https://arxiv.org/pdf/2504.10612)
+
+- [ ] [Daniel Tschernutter, David Diego Castro, Maciej Kasiński. (2025). \
+ A Difference-of-Convex Functions Approach to Energy-Based Iterative Reasoning. In Neurips 2025.](https://neurips.cc/virtual/2025/loc/san-diego/poster/118080)
+
+- [ ] [Mincheol Park, Heeji Won, Won Woo Ro, Suhyun Kim. (2025). \
+ Rethinking Entropy in Test-Time Adaptation: The Missing Piece from Energy Duality. In Neurips 2025.](https://openreview.net/forum?id=BKYFAutCDZ)
+
+- [ ] [Benjamin Hoover, Krishna Balasubramanian, Dmitry Krotov, Parikshit Ram. (2025). \
+ Dense Associative Memory with Epanechnikov energy. In Neurips 2025.](https://arxiv.org/abs/2506.10801)
+
+- [ ] [Yang Zitao, Amin Ullah, Shuai Li, Li Fuxin, Jun Li. (2025). \
+ Convex Potential Mirror Langevin Algorithm for Efficient Sampling of Energy-Based Models. In Neurips 2025.](https://openreview.net/forum?id=KWFnxtO78b)
+
+### 2024
+
+- [ ] [Pynadath, Patrick, et al. (2024). \
+ Gradient-based discrete sampling with automatic cyclical scheduling. In NeurIPS 2024.](https://arxiv.org/pdf/2402.17699)
+
+- [ ] [Du, Li, et al. (2024). \
+ Principled Gradient-based Markov Chain Monte Carlo for Text Generation. In ICML 2024.](https://arxiv.org/pdf/2312.17710)
+
+### 2023
+
+@to be updated
+
+- [ ] [Goshvadi, Katayoon, et al. (2023). \
+ Discs: a benchmark for discrete sampling. In NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9ad87c1ebbae8a3555adb31dbcacf44-Supplemental-Datasets_and_Benchmarks.pdf)
+
+- [ ] [Xiang, Yue, et al. (2023). \
+ Efficient informed proposals for discrete distributions via newton’s series approximation. In AISTATS 2023.](https://proceedings.mlr.press/v206/xiang23a/xiang23a.pdf)
+
+- [ ] [Sun, Haoran, et al. (2023). \
+ Any-scale balanced samplers for discrete space. In ICLR 2023.](https://openreview.net/pdf?id=lEkl0jdSb7B)
+
+- [ ] [Sun, Haoran, et al. (2023). \
+ Discrete langevin samplers via wasserstein gradient flow. In AISTATS 2023.](https://arxiv.org/pdf/2206.14897)
+
+- [ ] [Tobias Schröder, Zijing Ou, Jen Ning Lim, Yingzhen Li, Sebastian J. Vollmer, Andrew B. Duncan. (2023). \
+ Energy Discrepancies: A Score-Independent Loss for Energy-Based Models. In NeurIPS 2023.](https://arxiv.org/abs/2307.06431)
+
+- [ ] [Mingtian Zhang, Alex Hawkins-Hooker, Brooks Paige, David Barber. (2023). \
+Moment Matching Denoising Gibbs Sampling. In NeurIPS 2023.](https://arxiv.org/abs/2305.11650)
+
+- [ ] [ Timur Garipov, Sebastiaan De Peuter, Ge Yang, Vikas Garg, Samuel Kaski, Tommi S. Jaakkola. (2023). \
+Compositional Sculpting of Iterative Generative Processes. In NeurIPS 2023.](https://openreview.net/forum?id=w79RtqIyoM)
+
+- [ ] [ P Yu, Y Zhu, S Xie, X Ma, R Gao, SC Zhu, YN Wu. (2023). \
+Learning Energy-Based Prior Model with Diffusion-Amortized MCMC. In NeurIPS 2023.](https://arxiv.org/pdf/2310.03218.pdf)
+
+- [ ] [Tobias Schröder, Zijing Ou, Yingzhen Li, Andrew B. Duncan. (2023). \
+Training Discrete Energy-Based Models with Energy Discrepancy. In ICML SODS Workshop.](https://arxiv.org/abs/2307.07595)
+
+- [ ] [ W Jiang, J Qin, L Wu, C Chen, T Yang, L Zhang. (2023). \
+Learning Unnormalized Statistical Models via Compositional Optimization. In ICML 2023.](https://proceedings.mlr.press/v202/jiang23g/jiang23g.pdf)
+
+- [ ] [Aaron Lou, Chenlin Meng, Stefano Ermon. (2023). \
+Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution. arXiv preprint arXiv:2310.16834.](https://arxiv.org/abs/2310.16834)
 
 ### 2022
 
@@ -51,6 +166,77 @@
    
 - [ ] [Zhang, J., Xie, J., Zheng, Z., Barnes, N. 2022\
   Energy-Based Generative Cooperative Saliency Prediction (AAAI 2022)](https://arxiv.org/pdf/2106.13389.pdf)
+- [ ] [Rhodes, Benjamin, and Michael Gutmann. (2022). \
+Enhanced gradient-based MCMC in discrete spaces. In TMLR 2022.](https://arxiv.org/pdf/2208.00040)
+
+- [ ] [Sun, Haoran, Hanjun Dai, and Dale Schuurmans. (2022). \
+Optimal scaling for locally balanced proposals in discrete spaces. In NeurIPS 2022.](https://arxiv.org/pdf/2209.08183)
+
+- [ ] [ Chenlin Meng, Kristy Choi, Jiaming Song, Stefano Ermon. (2022). \
+Concrete Score Matching: Generalized Score Matching for Discrete Data. In NeurIPS 2022.](https://arxiv.org/abs/2211.00802)
+
+- [ ] [ Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu. (2022). \
+EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations. In NeurIPS 2022.](https://arxiv.org/abs/2207.06635)
+
+
+- [ ] [ Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi. (2022). \
+COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics. In NeurIPS 2022.](https://arxiv.org/abs/2202.11705)
+
+
+
+- [ ] [ Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, Chao Zhang (2022). \
+End-to-end Stochastic Programming with Energy-based Model. In NeurIPS 2022.](https://neurips.cc/virtual/2022/poster/52816)
+
+
+- [ ] [ Xiao, Z., & Han, T. (2022). \
+ Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model. In NeurIPS 2022.](https://arxiv.org/abs/2209.08739)
+
+
+
+- [ ] [  Minsoo Kang, Hyewon Yoo, Eunhee Kang, Sehwan Ki, Hyong Euk Lee, Bohyung Han. (2022). \
+ Information-Theoretic Generative Model Compression with Variational Energy-based Model. In NeurIPS 2022.](https://neurips.cc/virtual/2022/poster/54815)
+
+
+- [ ] [  Blondel, M., Llinares-López, F., Dadashi, R., Hussenot, L., & Geist, M. (2022). \
+ Learning Energy Networks with Generalized Fenchel-Young Losses. In NeurIPS 2022.](https://arxiv.org/pdf/2205.09589.pdf)
+
+
+- [ ] [ Suri, K., Shi, X. Q., Plataniotis, K., & Lawryshyn, Y. (2020). \
+ Energy-based surprise minimization for multi-agent value factorization. In NeurIPS 2022.](https://arxiv.org/abs/2009.09842)
+
+
+- [ ] [ Kim, B., & Ye, J. C. (2022). \
+ Energy-Based Contrastive Learning of Visual Representations. In NeurIPS 2022.](https://arxiv.org/abs/2202.04933)
+
+
+- [ ] [Sun, H., Dai, H., Xia, W., & Ramamurthy, A. (2021, September). \
+ Path Auxiliary Proposal for MCMC in Discrete Space. In International Conference on Learning Representations.](https://openreview.net/forum?id=JSR-YDImK95)
+
+- [ ] [Eikema, B., Kruszewski, G., Elsahar, H., & Dymetman, M. (2021). \
+ Sampling from Discrete Energy-Based Models with Quality/Efficiency Trade-offs. arXiv preprint arXiv:2112.05702.](https://arxiv.org/abs/2112.05702)
+
+- [ ] [Liu, M., Liu, H., & Ji, S. (2021). \
+Gradient-Guided Importance Sampling for Learning Discrete Energy-Based Models.](https://openreview.net/forum?id=IEKL-OihqX0)
+
+- [ ] [Zhang, D., Malkin, N., Liu, Z., Volokhova, A., Courville, A., & Bengio, Y. (2022). \
+Generative Flow Networks for Discrete Probabilistic Modeling. arXiv preprint arXiv:2202.01361.](https://arxiv.org/abs/2202.01361)
+
+- [ ] [Zhang, R., Liu, X., & Liu, Q. (2022). \
+A Langevin-like Sampler for Discrete Distributions. arXiv preprint arXiv:2206.09914.](https://arxiv.org/pdf/2206.09914.pdf)
+
+- [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2021). \
+   Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
+   
+- [ ] [Xie, J., Zhu, Y., Li, J., Li, P. (2022).\
+   A Tale of Two Flows: Cooperative Learning of Langevin Flow and Normalizing Flow Toward Energy-Based Model. ICLR 2022](https://openreview.net/pdf?id=31d5RLCUuXC)
+
+- [ ] [Sansone, E. (2021). \
+LSB: Local Self-Balancing MCMC in Discrete Spaces. arXiv preprint arXiv:2109.03867.](https://arxiv.org/abs/2109.03867)
+
+
+- [ ] [Ou, Z., Xu, T., Su, Q., Li, Y., Zhao, P., & Bian, Y.  2022). \
+Learning Neural Set Functions Under the Optimal Subset Oracle. In NeurIPS 2022 (Oral).](https://subsetselection.github.io/EquiVSet/)
+
 
 
 ### 2021
@@ -72,6 +258,8 @@
 - [ ] [Xu, Y., Xie, J., Zhao, T., Baker, C., Zhao, Y., Wu, Y. (2022)\
   Energy-Based Continuous Inverse Optimal Control. 2022](https://arxiv.org/pdf/1904.05453.pdf)
 
+- [ ] [Lazaro-Gredilla, M., Dedieu, A., & George, D. (2021). \
+Perturb-and-max-product: Sampling and learning in discrete energy-based models. Advances in Neural Information Processing Systems, 34.](https://arxiv.org/abs/2111.02458)
 
 - [ ] [Yu, L., Song, J., Song, Y., & Ermon, S. (2021). \
   Pseudo-Spherical Contrastive Divergence. arXiv preprint arXiv:2111.00780.](https://arxiv.org/abs/2111.00780)
@@ -90,6 +278,8 @@
 - [ ] [Jaini, P., Holdijk, L., & Welling, M. (2021). \
  Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent. arXiv preprint arXiv:2106.07832.](https://arxiv.org/pdf/2106.07832.pdf)
 
+- [ ] [Grathwohl, W., Swersky, K., Hashemi, M., Duvenaud, D., & Maddison, C. (2021, July). \
+Oops i took a gradient: Scalable sampling for discrete distributions. In International Conference on Machine Learning (pp. 3831-3841). PMLR.](https://arxiv.org/abs/2102.04509)
 
 - [ ] [Yoon, J., Hwang, S. J., & Lee, J. (2021). \
  Adversarial purification with Score-based generative models. arXiv preprint arXiv:2106.06041.](https://arxiv.org/abs/2106.06041)
